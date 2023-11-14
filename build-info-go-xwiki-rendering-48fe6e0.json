@@ -1,0 +1,3932 @@
+{
+  "$schema": "http://cyclonedx.org/schema/bom-1.5.schema.json",
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "version": 1,
+  "components": [
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-transformations:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-transformations",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-xstream:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-xstream",
+      "version": "14.10.19",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "21962ef6a0d9ad86c82dbc92a9686f31ecb4a00eefeeb30926612e5351f2fb44"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "31fe2eaeca1d885a854442341b8bca9a11f27046"
+        },
+        {
+          "alg": "MD5",
+          "content": "084ee4cdff2f0446b48deeef6007dbcc"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-properties:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-properties",
+      "version": "14.10.19",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "b2ad400642f72c3f146bb254e82d06a4d6936b7b93ca5c8da03ee2a225c0221d"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "ab6cc5661c1de8087c313bd9ee5f266db8e075f1"
+        },
+        {
+          "alg": "MD5",
+          "content": "f95827a98214d38c24e2ffe3e744d9bc"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.w3c.css:sac:1.3",
+      "type": "library",
+      "group": "org.w3c.css",
+      "name": "sac",
+      "version": "1.3"
+    },
+    {
+      "bom-ref": "org.slf4j:slf4j-api:1.7.36",
+      "type": "library",
+      "group": "org.slf4j",
+      "name": "slf4j-api",
+      "version": "1.7.36",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "d3ef575e3e4979678dc01bf1dcce51021493b4d11fb7f1be8ad982877c16a1c0"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "6c62681a2f655b49963a5983b8b0950a6120ae14"
+        },
+        {
+          "alg": "MD5",
+          "content": "872da51f5de7f3923da4de871d57fd85"
+        }
+      ]
+    },
+    {
+      "bom-ref": "net.java.dev.stax-utils:stax-utils:20070216",
+      "type": "library",
+      "group": "net.java.dev.stax-utils",
+      "name": "stax-utils",
+      "version": "20070216"
+    },
+    {
+      "bom-ref": "org.apache.commons:commons-lang3:3.12.0",
+      "type": "library",
+      "group": "org.apache.commons",
+      "name": "commons-lang3",
+      "version": "3.12.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "d919d904486c037f8d193412da0c92e22a9fa24230b9d67a57855c5c31c7e94e"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "c6842c86792ff03b9f1d1fe2aab8dc23aa6c6f0e"
+        },
+        {
+          "alg": "MD5",
+          "content": "19fe50567358922bdad277959ea69545"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-syntax-wikimodel:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-syntax-wikimodel",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-logging-common:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-logging-common",
+      "version": "14.10.19",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a611ddb57dfc0c6297f2fa5c4b12ed6b4b670daeb31b5df61277814b4a7ad7e0"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "7ce37d749865efc589cb879490f4240b26fbc582"
+        },
+        {
+          "alg": "MD5",
+          "content": "5415405280c3d1b4fab3e55db705747d"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-job-api:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-job-api",
+      "version": "14.10.19",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "aa678c62398f342178b622e8ac3ac8b5dac3a2bf0e6662811fa699f62a43b42e"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "abeb001a2f2e3ab657417879663a15926e4a3842"
+        },
+        {
+          "alg": "MD5",
+          "content": "b804e5a900f7c7743b73056ca60e9735"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-component-observation:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-component-observation",
+      "version": "14.10.19",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c9ec31055eaa1c2fb1150d963e88ae83a33f6576799f1fa5bc88ff21b09bb8a8"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "b3391eff6d770b07ac4affd3fc1d2b1e5c39bc88"
+        },
+        {
+          "alg": "MD5",
+          "content": "71ff7d47f93bd0883b0d27451a32a1a4"
+        }
+      ]
+    },
+    {
+      "bom-ref": "com.thoughtworks.xstream:xstream:1.4.17",
+      "type": "library",
+      "group": "com.thoughtworks.xstream",
+      "name": "xstream",
+      "version": "1.4.17",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "0dd5e24bdaf2a8782cd3642d18e6f01cca8867ae243c74d9445d06269f612844"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "646da0e0fa6c56ff2f1b81601fb8934393718217"
+        },
+        {
+          "alg": "MD5",
+          "content": "6c756db449d3f22367b0297d78ec4ff9"
+        }
+      ]
+    },
+    {
+      "bom-ref": "xmlpull:xmlpull:1.1.3.1",
+      "type": "library",
+      "group": "xmlpull",
+      "name": "xmlpull",
+      "version": "1.1.3.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "34e08ee62116071cbb69c0ed70d15a7a5b208d62798c59f2120bb8929324cb63"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "2b8e230d2ab644e4ecaa94db7cdedbc40c805dfa"
+        },
+        {
+          "alg": "MD5",
+          "content": "cc57dacc720eca721a50e78934b822d2"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-script:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-script",
+      "version": "14.10.19",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8e55042acb7765218400508c632e5c1e24af5dfcf4dce01fb24aa89075e1de54"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "bdaea4ef7d0517b79a02d2022da53f7c368f24a4"
+        },
+        {
+          "alg": "MD5",
+          "content": "bc048a7f42b517c3939086a6920c1ea7"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-syntax-xwiki20:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-syntax-xwiki20",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.dom4j:dom4j:2.1.3",
+      "type": "library",
+      "group": "org.dom4j",
+      "name": "dom4j",
+      "version": "2.1.3"
+    },
+    {
+      "bom-ref": "org.jdom:jdom2:2.0.6.1",
+      "type": "library",
+      "group": "org.jdom",
+      "name": "jdom2",
+      "version": "2.0.6.1"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-environment-api:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-environment-api",
+      "version": "14.10.19",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "53b4d5f0c1a51b4a3afc8e612c8fa9b0de7a87a4b4e0cb4223aec6170432a220"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "d98e242431d450fd437d0a63ea77a72057feed8d"
+        },
+        {
+          "alg": "MD5",
+          "content": "b969bb8f79ecdcc6ebe044620e18c21f"
+        }
+      ]
+    },
+    {
+      "bom-ref": "net.sourceforge.htmlcleaner:htmlcleaner:2.24",
+      "type": "library",
+      "group": "net.sourceforge.htmlcleaner",
+      "name": "htmlcleaner",
+      "version": "2.24"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-observation-api:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-observation-api",
+      "version": "14.10.19",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "07cd7b69e18231aaffddd8a35a7461967cbc7355e3dd5495839ce0a1e4a9173d"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "31b43e2e4c6e78b4e1a81c1e6ef55dbb923ad440"
+        },
+        {
+          "alg": "MD5",
+          "content": "c91dda73918e0a0ed4ff73eb10ce95e2"
+        }
+      ]
+    },
+    {
+      "bom-ref": "net.sourceforge.cssparser:cssparser:0.9.29",
+      "type": "library",
+      "group": "net.sourceforge.cssparser",
+      "name": "cssparser",
+      "version": "0.9.29"
+    },
+    {
+      "bom-ref": "org.apache.commons:commons-text:1.10.0",
+      "type": "library",
+      "group": "org.apache.commons",
+      "name": "commons-text",
+      "version": "1.10.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "770cd903fa7b604d1f7ef7ba17f84108667294b2b478be8ed1af3bffb4ae0018"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "3363381aef8cef2dbc1023b3e3a9433b08b64e01"
+        },
+        {
+          "alg": "MD5",
+          "content": "4afc9bfa2d31dbf7330c98fcc954b892"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-syntax-plain:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-syntax-plain",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-xml:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-xml",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "io.github.x-stream:mxparser:1.2.1",
+      "type": "library",
+      "group": "io.github.x-stream",
+      "name": "mxparser",
+      "version": "1.2.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "860eab19076fa6fe93643be7a0895a2ca698b514029734ec84eaf1f9de2468e2"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "2a7e50b9831efc7785a4d276d94eadee343a4729"
+        },
+        {
+          "alg": "MD5",
+          "content": "06012e8b74cfef8f09149320272fccab"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-syntax-xwiki21:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-syntax-xwiki21",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-configuration-api:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-configuration-api",
+      "version": "14.10.19",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c07ae04ddd135d4799a7d9ab78f2d866001e66d44dc076370e791b77c406e122"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "449cc14b2a9432c798980e0cefb05ee16854cba5"
+        },
+        {
+          "alg": "MD5",
+          "content": "870809fd4fb26a4dd56bd60d9eab275f"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-collection:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-collection",
+      "version": "14.10.19",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "4b5a80a1dada91b2ecf0d621aac992d4cec49056fca9be2426712944210f6a59"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "fcb9e48afc0818bba81ed5fab9c5897a7fddba9b"
+        },
+        {
+          "alg": "MD5",
+          "content": "fff268524ebb06f193003517d7759193"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-text:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-text",
+      "version": "14.10.19",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "baf7030095784ca8beeb427b938ccffb55b35f867083be15e50165629b8d9112"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "c4f0b3a9b6f7dae5f64d9aee0996a6d0ee5f3f4d"
+        },
+        {
+          "alg": "MD5",
+          "content": "c8d75fd6c697e06f206c061c9a24f7e1"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-syntax-xhtml:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-syntax-xhtml",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "commons-io:commons-io:2.11.0",
+      "type": "library",
+      "group": "commons-io",
+      "name": "commons-io",
+      "version": "2.11.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "961b2f6d87dbacc5d54abf45ab7a6e2495f89b75598962d8c723cea9bc210908"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "a2503f302b11ebde7ebc3df41daebe0e4eea3689"
+        },
+        {
+          "alg": "MD5",
+          "content": "3b4b7ccfaeceeac240b804839ee1a1ca"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.codehaus.woodstox:stax2-api:4.2.1",
+      "type": "library",
+      "group": "org.codehaus.woodstox",
+      "name": "stax2-api",
+      "version": "4.2.1"
+    },
+    {
+      "bom-ref": "org.apache.commons:commons-configuration2:2.8.0",
+      "type": "library",
+      "group": "org.apache.commons",
+      "name": "commons-configuration2",
+      "version": "2.8.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e5c46e4b0b1acddbc96651838c19d3df70da92dfb5107a6e4c42cb92d3a300bd"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "6a76acbe14d2c01d4758a57171f3f6a150dbd462"
+        },
+        {
+          "alg": "MD5",
+          "content": "4bb1f1ad26727cf5966554cb6b9eb073"
+        }
+      ]
+    },
+    {
+      "bom-ref": "commons-beanutils:commons-beanutils:1.9.4",
+      "type": "library",
+      "group": "commons-beanutils",
+      "name": "commons-beanutils",
+      "version": "1.9.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "7d938c81789028045c08c065e94be75fc280527620d5bd62b519d5838532368a"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "d52b9abcd97f38c81342bb7e7ae1eee9b73cba51"
+        },
+        {
+          "alg": "MD5",
+          "content": "07dc532ee316fe1f2f0323e9bd2f8df4"
+        }
+      ]
+    },
+    {
+      "bom-ref": "javax.inject:javax.inject:1",
+      "type": "library",
+      "group": "javax.inject",
+      "name": "javax.inject",
+      "version": "1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "6975da39a7040257bd51d21a231b76c915872d38"
+        },
+        {
+          "alg": "MD5",
+          "content": "289075e48b909e9e74e6c915b3631d2e"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.apache.commons:commons-collections4:4.4",
+      "type": "library",
+      "group": "org.apache.commons",
+      "name": "commons-collections4",
+      "version": "4.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "1df8b9430b5c8ed143d7815e403e33ef5371b2400aadbe9bda0883762e0846d1"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "62ebe7544cb7164d87e0637a2a6a2bdc981395e8"
+        },
+        {
+          "alg": "MD5",
+          "content": "4a37023740719b391f10030362c86be6"
+        }
+      ]
+    },
+    {
+      "bom-ref": "xerces:xercesImpl:2.12.2",
+      "type": "library",
+      "group": "xerces",
+      "name": "xercesImpl",
+      "version": "2.12.2"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-cache-api:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-cache-api",
+      "version": "14.10.19",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "49457578094c16517d6566db0a9873560e54768349b7e4d6a4d0c47d4b94a0f0"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "565b196b7ce77ef3d2a78794f2538ec7acdaf7af"
+        },
+        {
+          "alg": "MD5",
+          "content": "d7cb0b1a12e32ef04e5d74ce5eee0d89"
+        }
+      ]
+    },
+    {
+      "bom-ref": "commons-collections:commons-collections:3.2.2",
+      "type": "library",
+      "group": "commons-collections",
+      "name": "commons-collections",
+      "version": "3.2.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "eeeae917917144a68a741d4c0dff66aa5c5c5fd85593ff217bced3fc8ca783b8"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "8ad72fe39fa8c91eaaf12aadb21e0c3661fe26d5"
+        },
+        {
+          "alg": "MD5",
+          "content": "f54a8510f834a1a57166970bfc982e94"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-wikimodel:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-wikimodel",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "jakarta.validation:jakarta.validation-api:2.0.2",
+      "type": "library",
+      "group": "jakarta.validation",
+      "name": "jakarta.validation-api",
+      "version": "2.0.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "b42d42428f3d922c892a909fa043287d577c0c5b165ad9b7d568cebf87fc9ea4"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "5eacc6522521f7eacb081f95cee1e231648461e7"
+        },
+        {
+          "alg": "MD5",
+          "content": "77501d529c1928c9bac2500cc9f93fb0"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-syntax-event:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-syntax-event",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-stability:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-stability",
+      "version": "14.10.19",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "9d7eb3dcf2a175fc193a1decf2e0c2350784da2bd704c343ddaa8cd6be624f32"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "0aaf2fdefc94b92cec72daf31521b2d6d5557724"
+        },
+        {
+          "alg": "MD5",
+          "content": "fbc81b393495073bf8525906359537b2"
+        }
+      ]
+    },
+    {
+      "bom-ref": "com.fasterxml.woodstox:woodstox-core:6.4.0",
+      "type": "library",
+      "group": "com.fasterxml.woodstox",
+      "name": "woodstox-core",
+      "version": "6.4.0"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-api:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-api",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-filter-api:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-filter-api",
+      "version": "14.10.19",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "74fc02367b92ed6265f2662c4247cd060ba2f4c53eb589e0f2254a92d3c3373d"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "0be800ee4d24451859f8540420a7eabd9b646f99"
+        },
+        {
+          "alg": "MD5",
+          "content": "deddefab8e80f0079e364adac24177f1"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-context:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-context",
+      "version": "14.10.19",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "67548068ce9e78ef9c4f99e2f56ca1bd063fcab997c9e56c7d19334a6e3020a3"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "6c3d9f76128dc51cbd494c659313952f55a612a8"
+        },
+        {
+          "alg": "MD5",
+          "content": "d7624ccdf1c283787c6c86af072a2c62"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-component-api:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-component-api",
+      "version": "14.10.19",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "35ae95b694a8a84be13a775272150c8497f820d525207b8e3d619458cbb25c63"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "c208365dda412a6e6d4b816cba96075a6c675e32"
+        },
+        {
+          "alg": "MD5",
+          "content": "7c438a9f399136ad444862b250d0ff2f"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-xml:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-xml",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-logging-api:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-logging-api",
+      "version": "14.10.19",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "aa7dc92de236b97e6863f1370d9ce09962002b4b9227bc4bced07f3e8f95ebe5"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "3e1dd94c5971e31619ac116e35c2ec63e583372c"
+        },
+        {
+          "alg": "MD5",
+          "content": "b3f2770b05f53f33fba72818a0c451f6"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.jdom:jdom:1.1.3",
+      "type": "library",
+      "group": "org.jdom",
+      "name": "jdom",
+      "version": "1.1.3"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-archetype-macro:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-archetype-macro",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.slf4j:jcl-over-slf4j:1.7.36",
+      "type": "library",
+      "group": "org.slf4j",
+      "name": "jcl-over-slf4j",
+      "version": "1.7.36"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-xstream:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-xstream",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-properties:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-properties",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-tool-test-simple:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-tool-test-simple",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.apache.velocity.tools:velocity-tools-generic:3.1",
+      "type": "library",
+      "group": "org.apache.velocity.tools",
+      "name": "velocity-tools-generic",
+      "version": "3.1"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-component-default:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-component-default",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.junit.platform:junit-platform-engine:1.9.1",
+      "type": "library",
+      "group": "org.junit.platform",
+      "name": "junit-platform-engine",
+      "version": "1.9.1"
+    },
+    {
+      "bom-ref": "net.bytebuddy:byte-buddy:1.12.18",
+      "type": "library",
+      "group": "net.bytebuddy",
+      "name": "byte-buddy",
+      "version": "1.12.18"
+    },
+    {
+      "bom-ref": "org.junit.jupiter:junit-jupiter:5.9.1",
+      "type": "library",
+      "group": "org.junit.jupiter",
+      "name": "junit-jupiter",
+      "version": "5.9.1"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-filter-xml:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-filter-xml",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.opentest4j:opentest4j:1.2.0",
+      "type": "library",
+      "group": "org.opentest4j",
+      "name": "opentest4j",
+      "version": "1.2.0"
+    },
+    {
+      "bom-ref": "org.apache.commons:commons-lang3:3.12.0",
+      "type": "library",
+      "group": "org.apache.commons",
+      "name": "commons-lang3",
+      "version": "3.12.0"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-logging-common:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-logging-common",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "com.thoughtworks.xstream:xstream:1.4.17",
+      "type": "library",
+      "group": "com.thoughtworks.xstream",
+      "name": "xstream",
+      "version": "1.4.17"
+    },
+    {
+      "bom-ref": "org.jmock:jmock-junit4:2.12.0",
+      "type": "library",
+      "group": "org.jmock",
+      "name": "jmock-junit4",
+      "version": "2.12.0"
+    },
+    {
+      "bom-ref": "commons-codec:commons-codec:1.15",
+      "type": "library",
+      "group": "commons-codec",
+      "name": "commons-codec",
+      "version": "1.15"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-management:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-management",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "com.github.cliftonlabs:json-simple:3.0.2",
+      "type": "library",
+      "group": "com.github.cliftonlabs",
+      "name": "json-simple",
+      "version": "3.0.2"
+    },
+    {
+      "bom-ref": "org.apache.velocity:velocity-engine-core:2.3",
+      "type": "library",
+      "group": "org.apache.velocity",
+      "name": "velocity-engine-core",
+      "version": "2.3"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-observation-api:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-observation-api",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.javassist:javassist:3.29.2-GA",
+      "type": "library",
+      "group": "org.javassist",
+      "name": "javassist",
+      "version": "3.29.2-GA"
+    },
+    {
+      "bom-ref": "org.apache-extras.beanshell:bsh:2.0b6",
+      "type": "library",
+      "group": "org.apache-extras.beanshell",
+      "name": "bsh",
+      "version": "2.0b6"
+    },
+    {
+      "bom-ref": "org.apache.commons:commons-text:1.10.0",
+      "type": "library",
+      "group": "org.apache.commons",
+      "name": "commons-text",
+      "version": "1.10.0"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-configuration-api:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-configuration-api",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.apache.httpcomponents:httpclient:4.5.13",
+      "type": "library",
+      "group": "org.apache.httpcomponents",
+      "name": "httpclient",
+      "version": "4.5.13"
+    },
+    {
+      "bom-ref": "org.hamcrest:hamcrest-library:2.2",
+      "type": "library",
+      "group": "org.hamcrest",
+      "name": "hamcrest-library",
+      "version": "2.2"
+    },
+    {
+      "bom-ref": "org.jmock:jmock:2.12.0",
+      "type": "library",
+      "group": "org.jmock",
+      "name": "jmock",
+      "version": "2.12.0"
+    },
+    {
+      "bom-ref": "com.tdunning:json:1.8",
+      "type": "library",
+      "group": "com.tdunning",
+      "name": "json",
+      "version": "1.8"
+    },
+    {
+      "bom-ref": "commons-lang:commons-lang:2.6",
+      "type": "library",
+      "group": "commons-lang",
+      "name": "commons-lang",
+      "version": "2.6"
+    },
+    {
+      "bom-ref": "commons-io:commons-io:2.11.0",
+      "type": "library",
+      "group": "commons-io",
+      "name": "commons-io",
+      "version": "2.11.0"
+    },
+    {
+      "bom-ref": "org.mockito:mockito-core:4.8.1",
+      "type": "library",
+      "group": "org.mockito",
+      "name": "mockito-core",
+      "version": "4.8.1"
+    },
+    {
+      "bom-ref": "commons-beanutils:commons-beanutils:1.9.4",
+      "type": "library",
+      "group": "commons-beanutils",
+      "name": "commons-beanutils",
+      "version": "1.9.4"
+    },
+    {
+      "bom-ref": "javax.inject:javax.inject:1",
+      "type": "library",
+      "group": "javax.inject",
+      "name": "javax.inject",
+      "version": "1"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-test:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-test",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.apache.commons:commons-digester3:3.2",
+      "type": "library",
+      "group": "org.apache.commons",
+      "name": "commons-digester3",
+      "version": "3.2"
+    },
+    {
+      "bom-ref": "org.hamcrest:hamcrest:2.2",
+      "type": "library",
+      "group": "org.hamcrest",
+      "name": "hamcrest",
+      "version": "2.2"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-cache-api:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-cache-api",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.hamcrest:hamcrest-core:2.2",
+      "type": "library",
+      "group": "org.hamcrest",
+      "name": "hamcrest-core",
+      "version": "2.2"
+    },
+    {
+      "bom-ref": "jakarta.validation:jakarta.validation-api:2.0.2",
+      "type": "library",
+      "group": "jakarta.validation",
+      "name": "jakarta.validation-api",
+      "version": "2.0.2"
+    },
+    {
+      "bom-ref": "org.junit.jupiter:junit-jupiter-engine:5.9.1",
+      "type": "library",
+      "group": "org.junit.jupiter",
+      "name": "junit-jupiter-engine",
+      "version": "5.9.1"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-component-api:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-component-api",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-logging-api:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-logging-api",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.jmock:jmock-testjar:2.12.0",
+      "type": "library",
+      "group": "org.jmock",
+      "name": "jmock-testjar",
+      "version": "2.12.0"
+    },
+    {
+      "bom-ref": "com.fasterxml.jackson.core:jackson-core:2.14.0",
+      "type": "library",
+      "group": "com.fasterxml.jackson.core",
+      "name": "jackson-core",
+      "version": "2.14.0"
+    },
+    {
+      "bom-ref": "org.jmock:jmock-imposters:2.12.0",
+      "type": "library",
+      "group": "org.jmock",
+      "name": "jmock-imposters",
+      "version": "2.12.0"
+    },
+    {
+      "bom-ref": "org.reflections:reflections:0.10.2",
+      "type": "library",
+      "group": "org.reflections",
+      "name": "reflections",
+      "version": "0.10.2"
+    },
+    {
+      "bom-ref": "org.junit.platform:junit-platform-commons:1.9.1",
+      "type": "library",
+      "group": "org.junit.platform",
+      "name": "junit-platform-commons",
+      "version": "1.9.1"
+    },
+    {
+      "bom-ref": "org.objenesis:objenesis:3.3",
+      "type": "library",
+      "group": "org.objenesis",
+      "name": "objenesis",
+      "version": "3.3"
+    },
+    {
+      "bom-ref": "org.slf4j:slf4j-api:1.7.36",
+      "type": "library",
+      "group": "org.slf4j",
+      "name": "slf4j-api",
+      "version": "1.7.36"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-job-api:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-job-api",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-component-observation:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-component-observation",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "xmlpull:xmlpull:1.1.3.1",
+      "type": "library",
+      "group": "xmlpull",
+      "name": "xmlpull",
+      "version": "1.1.3.1"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-script:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-script",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "ch.qos.logback:logback-core:1.2.11",
+      "type": "library",
+      "group": "ch.qos.logback",
+      "name": "logback-core",
+      "version": "1.2.11"
+    },
+    {
+      "bom-ref": "junit:junit:4.13.2",
+      "type": "library",
+      "group": "junit",
+      "name": "junit",
+      "version": "4.13.2"
+    },
+    {
+      "bom-ref": "org.mockito:mockito-junit-jupiter:4.8.1",
+      "type": "library",
+      "group": "org.mockito",
+      "name": "mockito-junit-jupiter",
+      "version": "4.8.1"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-environment-api:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-environment-api",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "net.bytebuddy:byte-buddy-agent:1.12.18",
+      "type": "library",
+      "group": "net.bytebuddy",
+      "name": "byte-buddy-agent",
+      "version": "1.12.18"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-transformation-macro:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-transformation-macro",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "ch.qos.logback:logback-classic:1.2.11",
+      "type": "library",
+      "group": "ch.qos.logback",
+      "name": "logback-classic",
+      "version": "1.2.11"
+    },
+    {
+      "bom-ref": "com.google.code.findbugs:jsr305:3.0.2",
+      "type": "library",
+      "group": "com.google.code.findbugs",
+      "name": "jsr305",
+      "version": "3.0.2"
+    },
+    {
+      "bom-ref": "io.github.x-stream:mxparser:1.2.1",
+      "type": "library",
+      "group": "io.github.x-stream",
+      "name": "mxparser",
+      "version": "1.2.1"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-collection:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-collection",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-text:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-text",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "cglib:cglib:3.3.0",
+      "type": "library",
+      "group": "cglib",
+      "name": "cglib",
+      "version": "3.3.0"
+    },
+    {
+      "bom-ref": "org.junit.vintage:junit-vintage-engine:5.9.1",
+      "type": "library",
+      "group": "org.junit.vintage",
+      "name": "junit-vintage-engine",
+      "version": "5.9.1"
+    },
+    {
+      "bom-ref": "org.junit.platform:junit-platform-launcher:1.9.1",
+      "type": "library",
+      "group": "org.junit.platform",
+      "name": "junit-platform-launcher",
+      "version": "1.9.1"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-syntax-xdomxmlcurrent:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-syntax-xdomxmlcurrent",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "com.fasterxml.jackson.core:jackson-databind:2.14.0",
+      "type": "library",
+      "group": "com.fasterxml.jackson.core",
+      "name": "jackson-databind",
+      "version": "2.14.0"
+    },
+    {
+      "bom-ref": "org.junit.jupiter:junit-jupiter-api:5.9.1",
+      "type": "library",
+      "group": "org.junit.jupiter",
+      "name": "junit-jupiter-api",
+      "version": "5.9.1"
+    },
+    {
+      "bom-ref": "com.fasterxml.jackson.core:jackson-annotations:2.14.0",
+      "type": "library",
+      "group": "com.fasterxml.jackson.core",
+      "name": "jackson-annotations",
+      "version": "2.14.0"
+    },
+    {
+      "bom-ref": "org.apache.commons:commons-configuration2:2.8.0",
+      "type": "library",
+      "group": "org.apache.commons",
+      "name": "commons-configuration2",
+      "version": "2.8.0"
+    },
+    {
+      "bom-ref": "org.apache.commons:commons-collections4:4.4",
+      "type": "library",
+      "group": "org.apache.commons",
+      "name": "commons-collections4",
+      "version": "4.4"
+    },
+    {
+      "bom-ref": "org.slf4j:log4j-over-slf4j:1.7.36",
+      "type": "library",
+      "group": "org.slf4j",
+      "name": "log4j-over-slf4j",
+      "version": "1.7.36"
+    },
+    {
+      "bom-ref": "commons-collections:commons-collections:3.2.2",
+      "type": "library",
+      "group": "commons-collections",
+      "name": "commons-collections",
+      "version": "3.2.2"
+    },
+    {
+      "bom-ref": "net.sf.json-lib:json-lib:2.4",
+      "type": "library",
+      "group": "net.sf.json-lib",
+      "name": "json-lib",
+      "version": "2.4"
+    },
+    {
+      "bom-ref": "org.apiguardian:apiguardian-api:1.1.2",
+      "type": "library",
+      "group": "org.apiguardian",
+      "name": "apiguardian-api",
+      "version": "1.1.2"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-velocity:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-velocity",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.junit.jupiter:junit-jupiter-params:5.9.1",
+      "type": "library",
+      "group": "org.junit.jupiter",
+      "name": "junit-jupiter-params",
+      "version": "5.9.1"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-stability:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-stability",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.apache.httpcomponents:httpcore:4.4.15",
+      "type": "library",
+      "group": "org.apache.httpcomponents",
+      "name": "httpcore",
+      "version": "4.4.15"
+    },
+    {
+      "bom-ref": "net.sf.ezmorph:ezmorph:1.0.6",
+      "type": "library",
+      "group": "net.sf.ezmorph",
+      "name": "ezmorph",
+      "version": "1.0.6"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-filter-api:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-filter-api",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-context:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-context",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.ow2.asm:asm:9.4",
+      "type": "library",
+      "group": "org.ow2.asm",
+      "name": "asm",
+      "version": "9.4"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-tool-test-component:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-tool-test-component",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.jmock:jmock-legacy:2.12.0",
+      "type": "library",
+      "group": "org.jmock",
+      "name": "jmock-legacy",
+      "version": "2.12.0"
+    },
+    {
+      "bom-ref": "org.w3c.css:sac:1.3",
+      "type": "library",
+      "group": "org.w3c.css",
+      "name": "sac",
+      "version": "1.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "003785669f921aafe4f137468dd20a01a36111e94fd7449f26c16e7924d82d23"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "cdb2dcb4e22b83d6b32b93095f644c3462739e82"
+        },
+        {
+          "alg": "MD5",
+          "content": "eb04fa63fc70c722f2b8ec156166343b"
+        }
+      ]
+    },
+    {
+      "bom-ref": "net.java.dev.stax-utils:stax-utils:20070216",
+      "type": "library",
+      "group": "net.java.dev.stax-utils",
+      "name": "stax-utils",
+      "version": "20070216",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "7c7fd0892cb3362ed2e43ce2f76c8f18f2d7ff1d371ed7490775b7368f3fee9a"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "1d9fc60be26a0482c36b7a04d2c581ddf758b6ea"
+        },
+        {
+          "alg": "MD5",
+          "content": "e4e3c9cad3b8289b1f905d6705bb6368"
+        }
+      ]
+    },
+    {
+      "bom-ref": "xerces:xercesImpl:2.12.2",
+      "type": "library",
+      "group": "xerces",
+      "name": "xercesImpl",
+      "version": "2.12.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6fc991829af1708d15aea50c66f0beadcd2cfeb6968e0b2f55c1b0909883fe16"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "f051f988aa2c9b4d25d05f95742ab0cc3ed789e2"
+        },
+        {
+          "alg": "MD5",
+          "content": "40e4f2d5aacfbf51a9a1572d77a0e5e9"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.dom4j:dom4j:2.1.3",
+      "type": "library",
+      "group": "org.dom4j",
+      "name": "dom4j",
+      "version": "2.1.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "549f3007c6290f6a901e57d1d331b4ed0e6bf7384f78bf10316ffceeca834de6"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "a75914155a9f5808963170ec20653668a2ffd2fd"
+        },
+        {
+          "alg": "MD5",
+          "content": "41efcf234c5a05a8c590f9b51d53ca66"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.jdom:jdom2:2.0.6.1",
+      "type": "library",
+      "group": "org.jdom",
+      "name": "jdom2",
+      "version": "2.0.6.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "0b20f45e3a0fd8f0d12cdc5316b06776e902b1365db00118876f9175c60f302c"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "dc15dff8f701b227ee523eeb7a17f77c10eafe2f"
+        },
+        {
+          "alg": "MD5",
+          "content": "5be72710c66f3c9ba71f8009e92597d1"
+        }
+      ]
+    },
+    {
+      "bom-ref": "net.sourceforge.htmlcleaner:htmlcleaner:2.24",
+      "type": "library",
+      "group": "net.sourceforge.htmlcleaner",
+      "name": "htmlcleaner",
+      "version": "2.24",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "d1045d31901ab979a65b7b2e24edd1d8cd94653c9b6deb700a36960c69b9c8f9"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "3e193655071befbf2a1ed5efb7d2d05deb302325"
+        },
+        {
+          "alg": "MD5",
+          "content": "cc3aa68b69691957aeb24b8f1191565d"
+        }
+      ]
+    },
+    {
+      "bom-ref": "net.sourceforge.cssparser:cssparser:0.9.29",
+      "type": "library",
+      "group": "net.sourceforge.cssparser",
+      "name": "cssparser",
+      "version": "0.9.29",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "1704d1a4b2f68fb4037740d5e1ceb950e2480e5b03cbcec226213f557c40c342"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "3f6dbdb8ad4924c33ae0c8ce45cfc35a9fc4bb98"
+        },
+        {
+          "alg": "MD5",
+          "content": "67997c3b32cee2374c77edf327fc8628"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.codehaus.woodstox:stax2-api:4.2.1",
+      "type": "library",
+      "group": "org.codehaus.woodstox",
+      "name": "stax2-api",
+      "version": "4.2.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "678567e48b51a42c65c699f266539ad3d676d4b1a5b0ad7d89ece8b9d5772579"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "a3f7325c52240418c2ba257b103c3c550e140c83"
+        },
+        {
+          "alg": "MD5",
+          "content": "af8377bc7882332e22456616a9f164f6"
+        }
+      ]
+    },
+    {
+      "bom-ref": "com.fasterxml.woodstox:woodstox-core:6.4.0",
+      "type": "library",
+      "group": "com.fasterxml.woodstox",
+      "name": "woodstox-core",
+      "version": "6.4.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "d6eb9f2f40049a7a808baf11ffba0737648e62ff52fde9271d808e5d57a27279"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "c47579857bbf12c85499f431d4ecf27d77976b7c"
+        },
+        {
+          "alg": "MD5",
+          "content": "afcba1114fca8199ef26346dd6011e90"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-xml:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-xml",
+      "version": "14.10.19",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "cc6b7dd55b4ec1b605509450eba0df6185e8ed8c6c57f2d3c01ce40b8ac89860"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "064656c9e91406cea0d2b65b60f2c3e6fceab807"
+        },
+        {
+          "alg": "MD5",
+          "content": "e7c41750da81cc52430b4946a1fc9790"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.jdom:jdom:1.1.3",
+      "type": "library",
+      "group": "org.jdom",
+      "name": "jdom",
+      "version": "1.1.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "02bd61a725e8af9b0176b43bf29816d0c748b8ab951385bd127be37489325a0a"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "8bdfeb39fa929c35f5e4f0b02d34350db39a1efc"
+        },
+        {
+          "alg": "MD5",
+          "content": "140bfed13341fe2039eee0f26a16d705"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-syntax-jspwiki:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-syntax-jspwiki",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-syntax-twiki:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-syntax-twiki",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.apache.maven.doxia:doxia-module-twiki:1.11.1",
+      "type": "library",
+      "group": "org.apache.maven.doxia",
+      "name": "doxia-module-twiki",
+      "version": "1.11.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a7e31a73a8cb6d72a25bd1f221b9a8a65dd399a794cb246d065713ff05f291f2"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "58c2d96bc0695b147d7612c9580c71c158988b6d"
+        },
+        {
+          "alg": "MD5",
+          "content": "776fb5975ba33c8911b010eb2b8c54ab"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.codehaus.plexus:plexus-component-annotations:2.1.1",
+      "type": "library",
+      "group": "org.codehaus.plexus",
+      "name": "plexus-component-annotations",
+      "version": "2.1.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "623711b3db0d3c6beaaf22578aea8b2706baee8b26ea328dfe94d96cbe2835dd"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "856d33577e7e404f2438b2f14dbdf4ff5d6078b9"
+        },
+        {
+          "alg": "MD5",
+          "content": "c001d5485e42fc73831e095f3cce0a82"
+        }
+      ]
+    },
+    {
+      "bom-ref": "commons-codec:commons-codec:1.15",
+      "type": "library",
+      "group": "commons-codec",
+      "name": "commons-codec",
+      "version": "1.15",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "b3e9f6d63a790109bf0d056611fbed1cf69055826defeb9894a71369d246ed63"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "49d94806b6e3dc933dacbd8acb0fdbab8ebd1e5d"
+        },
+        {
+          "alg": "MD5",
+          "content": "303baf002ce6d382198090aedd9d79a2"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.apache.httpcomponents:httpclient:4.5.13",
+      "type": "library",
+      "group": "org.apache.httpcomponents",
+      "name": "httpclient",
+      "version": "4.5.13",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6fe9026a566c6a5001608cf3fc32196641f6c1e5e1986d1037ccdbd5f31ef743"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "e5f6cae5ca7ecaac1ec2827a9e2d65ae2869cada"
+        },
+        {
+          "alg": "MD5",
+          "content": "40d6b9075fbd28fa10292a45a0db9457"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.codehaus.plexus:plexus-classworlds:2.6.0",
+      "type": "library",
+      "group": "org.codehaus.plexus",
+      "name": "plexus-classworlds",
+      "version": "2.6.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "52f77c5ec49f787c9c417ebed5d6efd9922f44a202f217376e4f94c0d74f3549"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "8587e80fcb38e70b70fae8d5914b6376bfad6259"
+        },
+        {
+          "alg": "MD5",
+          "content": "67e722b27e3a33b33c1b263b99dd7c43"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.apache.maven.doxia:doxia-core:1.11.1",
+      "type": "library",
+      "group": "org.apache.maven.doxia",
+      "name": "doxia-core",
+      "version": "1.11.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "d79801594566bdd7168b1adf927c3cc40cf17a95dd4480b4151e45eb30128cd7"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "0b0438a61c2c1208b4d2e2b38241478383dd758b"
+        },
+        {
+          "alg": "MD5",
+          "content": "a5f49cc5f7dadd2fa104974dfa3a6766"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.codehaus.plexus:plexus-container-default:2.1.1",
+      "type": "library",
+      "group": "org.codehaus.plexus",
+      "name": "plexus-container-default",
+      "version": "2.1.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8b65840e41ca669a1a69ec1daedb3426304e560b24172cc93bb02e8c199e1ce7"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "79551ce19404ad5181b8c499ff1ef304c95e0049"
+        },
+        {
+          "alg": "MD5",
+          "content": "d9f918de257bb38b21fe2afb76e3c4d1"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.codehaus.plexus:plexus-utils:3.5.0",
+      "type": "library",
+      "group": "org.codehaus.plexus",
+      "name": "plexus-utils",
+      "version": "3.5.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e5182eb3e5e73cf89d6426ca7f5cbae2e72819b9bed68d872f80f3b535269cb8"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "ff9f0881396a06b31ff548048256e9a7c8f1207a"
+        },
+        {
+          "alg": "MD5",
+          "content": "a692f46bd0bb8e23a76f254077fbb085"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.apache.xbean:xbean-reflect:3.7",
+      "type": "library",
+      "group": "org.apache.xbean",
+      "name": "xbean-reflect",
+      "version": "3.7",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "104e5e9bb5a669f86722f32281960700f7ec8e3209ef51b23eb9b6d23d1629cb"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "6072a967ec936b3bb25b421d8eca07dd750219fd"
+        },
+        {
+          "alg": "MD5",
+          "content": "b77f0c9914e56547409e65137acba9eb"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.apache.maven.doxia:doxia-sink-api:1.11.1",
+      "type": "library",
+      "group": "org.apache.maven.doxia",
+      "name": "doxia-sink-api",
+      "version": "1.11.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "39ac38bb7d752ea003be17a0065522e4e1b076a4f7e374bea55259f3e133f28f"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "59c2255f58c78fbbcb7e638e82bd2914e78aec8b"
+        },
+        {
+          "alg": "MD5",
+          "content": "b1bd5c9efde9f14969fa881b87fe709b"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-syntax-doxia:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-syntax-doxia",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.apache.maven.doxia:doxia-logging-api:1.11.1",
+      "type": "library",
+      "group": "org.apache.maven.doxia",
+      "name": "doxia-logging-api",
+      "version": "1.11.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "243c66f842cd2b3ded7c6d2c36b177a65c3f5d94800cef988ba3e29ec8cf60c9"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "ee28757cce6ee0215bac550dead25074c97c532d"
+        },
+        {
+          "alg": "MD5",
+          "content": "6452e33a36b87939630e0b18f8ffcff0"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.apache.httpcomponents:httpcore:4.4.15",
+      "type": "library",
+      "group": "org.apache.httpcomponents",
+      "name": "httpcore",
+      "version": "4.4.15",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "3cbaed088c499a10f96dde58f39dc0e7985171abd88138ca1655a872011bb142"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "7f2e0c573eaa7a74bac2e89b359e1f73d92a0a1d"
+        },
+        {
+          "alg": "MD5",
+          "content": "be7c67929df007fcac6c8eff5322d3a0"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-macro-ctsreport:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-macro-ctsreport",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-macro-message:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-macro-message",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-macro-box:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-macro-box",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-macros:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-macros",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-macro-footnotes:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-macro-footnotes",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-syntax-creole:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-syntax-creole",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-syntax-xhtml5:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-syntax-xhtml5",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-syntax-html:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-syntax-html",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-observation-local:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-observation-local",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-syntax-apt:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-syntax-apt",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.apache.maven.doxia:doxia-module-apt:1.11.1",
+      "type": "library",
+      "group": "org.apache.maven.doxia",
+      "name": "doxia-module-apt",
+      "version": "1.11.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "90b63fa6add0da37b5e81339f1c17fd5d6d50faf90695bb42b56108f3f1818bb"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "268e879ce325eb80f31f9a28f02b8ff5f88670b5"
+        },
+        {
+          "alg": "MD5",
+          "content": "9695fe74be38fd1a0e2690c50b994758"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-filter-xml:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-filter-xml",
+      "version": "14.10.19",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "56e583d39fc2ffe4bc60ddeb3ffbc0caa2a962ac2e54c0cdbc3e60c507025c73"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "ba8bcb6738dfbcc754d6f64dc134837edf8b4ecc"
+        },
+        {
+          "alg": "MD5",
+          "content": "8d1a48f247122e8033c2590eeddef426"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-syntax-html5:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-syntax-html5",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-macro-figure:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-macro-figure",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-syntax-annotatedxhtml:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-syntax-annotatedxhtml",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-macro-comment:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-macro-comment",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-transformation-icon:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-transformation-icon",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-transformation-wikiword:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-transformation-wikiword",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-syntax-annotatedhtml5:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-syntax-annotatedhtml5",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.slf4j:jcl-over-slf4j:1.7.36",
+      "type": "library",
+      "group": "org.slf4j",
+      "name": "jcl-over-slf4j",
+      "version": "1.7.36",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "ab57ca8fd223772c17365d121f59e94ecbf0ae59d08c03a3cb5b81071c019195"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "d877e195a05aca4a2f1ad2ff14bfec1393af4b5e"
+        },
+        {
+          "alg": "MD5",
+          "content": "8065610cde33ed9fd5d34367912c1938"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.jmock:jmock-testjar:2.12.0",
+      "type": "library",
+      "group": "org.jmock",
+      "name": "jmock-testjar",
+      "version": "2.12.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "efefbcf6cd294d0e29f0c46eb2a3380d4ca4e1763ff719c69e2f2ac62f564a04"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "45958b3b1e95149862fd779d0e63b256cd58a105"
+        },
+        {
+          "alg": "MD5",
+          "content": "8e26042c4f2d9dc50389c9c4d9c0b050"
+        }
+      ]
+    },
+    {
+      "bom-ref": "com.fasterxml.jackson.core:jackson-core:2.14.0",
+      "type": "library",
+      "group": "com.fasterxml.jackson.core",
+      "name": "jackson-core",
+      "version": "2.14.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "ab4793e5df4fbfae445ca55e9e1439311c80fa8b34fc13162c1260902b4dbea0"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "49d219171d6af643e061e9e1baaaf6a6a067918d"
+        },
+        {
+          "alg": "MD5",
+          "content": "88988c4b941b1f4c6637af5218b26f87"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-tool-test-simple:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-tool-test-simple",
+      "version": "14.10.19",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "25ff41b8df7d7a3491982c183f1e34d2474ac0eef20aa9c48aba48ca018a4450"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "877d519e2e8ef77c02451c2c490de76cca7b9027"
+        },
+        {
+          "alg": "MD5",
+          "content": "cc36504aeb359e8c1649c052ae0a0291"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.jmock:jmock-imposters:2.12.0",
+      "type": "library",
+      "group": "org.jmock",
+      "name": "jmock-imposters",
+      "version": "2.12.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "3b836269745a137c9b2347e8d7c2104845b126ef04f012d6bfd94f1a7dea7b09"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "a0f693ff5505367c55b93c0048a862f8d2d2cf64"
+        },
+        {
+          "alg": "MD5",
+          "content": "881dcbe94ab985334f4a02d8daee8e1d"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.apache.velocity.tools:velocity-tools-generic:3.1",
+      "type": "library",
+      "group": "org.apache.velocity.tools",
+      "name": "velocity-tools-generic",
+      "version": "3.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8258cfdcaa16127f35ffe610a3fa4f76b7ebe51b88922c73c4ee39ce8f378ce5"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "07aaa49086a64cd9dab967a8437cc03abbfad655"
+        },
+        {
+          "alg": "MD5",
+          "content": "76f13879ead8693fd4d5751a8a236089"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-component-default:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-component-default",
+      "version": "14.10.19",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "43f81751c7b982d6842ecf1a7e193dda881fad83c8e11a109a459c0c088fdd99"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "a331f8c629a1f69719aa2ea923e367e2be91f4b4"
+        },
+        {
+          "alg": "MD5",
+          "content": "07054cfc2816f9b2f0ea591137cdfe40"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.reflections:reflections:0.10.2",
+      "type": "library",
+      "group": "org.reflections",
+      "name": "reflections",
+      "version": "0.10.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "938a2d08fe54050d7610b944d8ddc3a09355710d9e6be0aac838dbc04e9a2825"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "b638d7ca0e0fe0146b60a0e7ba232ad852a73b31"
+        },
+        {
+          "alg": "MD5",
+          "content": "1d0070839d825f57fe6f4d8e2a82989b"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.junit.platform:junit-platform-commons:1.9.1",
+      "type": "library",
+      "group": "org.junit.platform",
+      "name": "junit-platform-commons",
+      "version": "1.9.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a8e82d510bbbce5fe1777b2ecf7bc68401e9ae8327009e029b2db5798403d25e"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "3145f821b5cd10abcdc5f925baa5fffa6f1b628f"
+        },
+        {
+          "alg": "MD5",
+          "content": "5d39e33ed6c2275c75f3ad4d204a9f1f"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.junit.platform:junit-platform-engine:1.9.1",
+      "type": "library",
+      "group": "org.junit.platform",
+      "name": "junit-platform-engine",
+      "version": "1.9.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "f59c3a67087f2b9bbb17a9c06dd416697989b2c53b38843874ebbbbcb0afc23f"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "83591e5089d6cea5f324aa3ecca9b19d5a275803"
+        },
+        {
+          "alg": "MD5",
+          "content": "e5be12dda4695a67bd5768fc396bbe25"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.objenesis:objenesis:3.3",
+      "type": "library",
+      "group": "org.objenesis",
+      "name": "objenesis",
+      "version": "3.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "02dfd0b0439a5591e35b708ed2f5474eb0948f53abf74637e959b8e4ef69bfeb"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "1049c09f1de4331e8193e579448d0916d75b7631"
+        },
+        {
+          "alg": "MD5",
+          "content": "ab0e0b2ab81affdd7f38bcc60fd85571"
+        }
+      ]
+    },
+    {
+      "bom-ref": "net.bytebuddy:byte-buddy:1.12.18",
+      "type": "library",
+      "group": "net.bytebuddy",
+      "name": "byte-buddy",
+      "version": "1.12.18",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "39200c13a72b6a3f4ec43c7b6d2fb78ecbeb25c29e986f4efa572636b39d750e"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "875a9c3f29d2f6f499dfd60d76e97a343f9b1233"
+        },
+        {
+          "alg": "MD5",
+          "content": "aa9260b3a85969a1a37c192c63d07df3"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.junit.jupiter:junit-jupiter:5.9.1",
+      "type": "library",
+      "group": "org.junit.jupiter",
+      "name": "junit-jupiter",
+      "version": "5.9.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e305ce7b01adfcc89b4eee03bca473eeb68925a596d8ccca404a436344fc1965"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "9274d3757e224bc02eae367bd481062a263c150b"
+        },
+        {
+          "alg": "MD5",
+          "content": "f9e29d72f8e9dc363e63b77600fc430a"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.opentest4j:opentest4j:1.2.0",
+      "type": "library",
+      "group": "org.opentest4j",
+      "name": "opentest4j",
+      "version": "1.2.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "58812de60898d976fb81ef3b62da05c6604c18fd4a249f5044282479fc286af2"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "28c11eb91f9b6d8e200631d46e20a7f407f2a046"
+        },
+        {
+          "alg": "MD5",
+          "content": "45c9a837c21f68e8c93e85b121e2fb90"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.jmock:jmock-junit4:2.12.0",
+      "type": "library",
+      "group": "org.jmock",
+      "name": "jmock-junit4",
+      "version": "2.12.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "3233062fc889637c151a24f1ee086bad04321ab7d8264fef279daff0fa27205b"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "cc4f8745e5ecfe0378bfbfdccd3d403a260cd046"
+        },
+        {
+          "alg": "MD5",
+          "content": "e8f439cbb7aa77f2d6342d2fc42b121b"
+        }
+      ]
+    },
+    {
+      "bom-ref": "ch.qos.logback:logback-core:1.2.11",
+      "type": "library",
+      "group": "ch.qos.logback",
+      "name": "logback-core",
+      "version": "1.2.11",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "6ce1e9397be8298a2e99029f55f955c6fa3cef255171c554d0b9c201cffd0159"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "a01230df5ca5c34540cdaa3ad5efb012f1f1f792"
+        },
+        {
+          "alg": "MD5",
+          "content": "115da115b5e66ef64e774ec35af1fb1a"
+        }
+      ]
+    },
+    {
+      "bom-ref": "junit:junit:4.13.2",
+      "type": "library",
+      "group": "junit",
+      "name": "junit",
+      "version": "4.13.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8e495b634469d64fb8acfa3495a065cbacc8a0fff55ce1e31007be4c16dc57d3"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "8ac9e16d933b6fb43bc7f576336b8f4d7eb5ba12"
+        },
+        {
+          "alg": "MD5",
+          "content": "d98a9a02a99a9acd22d7653cbcc1f31f"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-management:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-management",
+      "version": "14.10.19",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "9939e86a6bdb9a77bae83ff64d47aa2335a9b359211efe436eb4e49920eab1f2"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "26bff637cb036e098438f685a3c75f659a99d3f3"
+        },
+        {
+          "alg": "MD5",
+          "content": "d350d54a331fd1d929b231c43e1cf6e0"
+        }
+      ]
+    },
+    {
+      "bom-ref": "com.github.cliftonlabs:json-simple:3.0.2",
+      "type": "library",
+      "group": "com.github.cliftonlabs",
+      "name": "json-simple",
+      "version": "3.0.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "fda65a9ad0e1ac0c88987106e89aa4d8b2a2495e7e042371efa83813f65b7295"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "2337afdb06134a12fc0239299c3ceb2e9c209516"
+        },
+        {
+          "alg": "MD5",
+          "content": "148c0d1bdc1bcb24394627d6930ee9ad"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.mockito:mockito-junit-jupiter:4.8.1",
+      "type": "library",
+      "group": "org.mockito",
+      "name": "mockito-junit-jupiter",
+      "version": "4.8.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "518557486d3811c10850af9416c85d0a881e685be6aef4924224d81588a46a31"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "e393aa62eca2244a535b03842843f2f199343d1f"
+        },
+        {
+          "alg": "MD5",
+          "content": "4d000a046cf8d3afe6810af1bf888bfe"
+        }
+      ]
+    },
+    {
+      "bom-ref": "net.bytebuddy:byte-buddy-agent:1.12.18",
+      "type": "library",
+      "group": "net.bytebuddy",
+      "name": "byte-buddy-agent",
+      "version": "1.12.18",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "c31a3256b2df60a5d227971798f73b5aa268a0cb854ecec39ffa6e372eecde21"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "417a7310a7bf1c1aae5ca502d26515f9c2f94396"
+        },
+        {
+          "alg": "MD5",
+          "content": "38a1d106e769da25e8315dd3ca11000c"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.apache.velocity:velocity-engine-core:2.3",
+      "type": "library",
+      "group": "org.apache.velocity",
+      "name": "velocity-engine-core",
+      "version": "2.3",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "b086cee8fd8183e240b4afcf54fe38ec33dd8eb0da414636e5bf7aa4d9856629"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "e2133b723d0e42be74880d34de6bf6538ea7f915"
+        },
+        {
+          "alg": "MD5",
+          "content": "e761e6088b946b42289c5d676a515581"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.javassist:javassist:3.29.2-GA",
+      "type": "library",
+      "group": "org.javassist",
+      "name": "javassist",
+      "version": "3.29.2-GA",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a90ddb25135df9e57ea9bd4e224e219554929758f9bae9965f29f81d60a3293f"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "6c32028609e5dd4a1b78e10fbcd122b09b3928b1"
+        },
+        {
+          "alg": "MD5",
+          "content": "9783c90ffa4d36eddda9526fde06f3ea"
+        }
+      ]
+    },
+    {
+      "bom-ref": "ch.qos.logback:logback-classic:1.2.11",
+      "type": "library",
+      "group": "ch.qos.logback",
+      "name": "logback-classic",
+      "version": "1.2.11",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "4d8e899621a3006c2f66e19feab002b11e6cfc5cb1854fc41f01532c00deb2aa"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "4741689214e9d1e8408b206506cbe76d1c6a7d60"
+        },
+        {
+          "alg": "MD5",
+          "content": "e13679004cc76ad5792f275f04884fab"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.apache-extras.beanshell:bsh:2.0b6",
+      "type": "library",
+      "group": "org.apache-extras.beanshell",
+      "name": "bsh",
+      "version": "2.0b6",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "a17955976070c0573235ee662f2794a78082758b61accffce8d3f8aedcd91047"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "fb418f9b33a0b951e9a2978b4b6ee93b2707e72f"
+        },
+        {
+          "alg": "MD5",
+          "content": "0f27117d5b4cfeea1d0634125313fac0"
+        }
+      ]
+    },
+    {
+      "bom-ref": "com.google.code.findbugs:jsr305:3.0.2",
+      "type": "library",
+      "group": "com.google.code.findbugs",
+      "name": "jsr305",
+      "version": "3.0.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "25ea2e8b0c338a877313bd4672d3fe056ea78f0d"
+        },
+        {
+          "alg": "MD5",
+          "content": "dd83accb899363c32b07d7a1b2e4ce40"
+        }
+      ]
+    },
+    {
+      "bom-ref": "cglib:cglib:3.3.0",
+      "type": "library",
+      "group": "cglib",
+      "name": "cglib",
+      "version": "3.3.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "9fe0c26d7464140ccdfe019ac687be1fb906122b508ab54beb810db0f09a9212"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "c956b9f9708af5901e9cf05701e9b2b1c25027cc"
+        },
+        {
+          "alg": "MD5",
+          "content": "6ff304cc2874dd20277a8206fee5fd9a"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.hamcrest:hamcrest-library:2.2",
+      "type": "library",
+      "group": "org.hamcrest",
+      "name": "hamcrest-library",
+      "version": "2.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "3851523a201a0d4825c25a61a6edc50712825a39bd3d03391b98c48ca3cb396c"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "cf530c8a0bc993487c64e940ae639bb4a6104dc6"
+        },
+        {
+          "alg": "MD5",
+          "content": "e55927fb7e4a3c7a4ecd325677ea8cb3"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.jmock:jmock:2.12.0",
+      "type": "library",
+      "group": "org.jmock",
+      "name": "jmock",
+      "version": "2.12.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "266d07314c0cd343c46ff8a55601272de8cf406807caf55e6f313295f83d10be"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "69907192f031725c0fcd8220b06701580c8c100b"
+        },
+        {
+          "alg": "MD5",
+          "content": "df540d9fd9766d5d05fe140cb53d4e0f"
+        }
+      ]
+    },
+    {
+      "bom-ref": "com.tdunning:json:1.8",
+      "type": "library",
+      "group": "com.tdunning",
+      "name": "json",
+      "version": "1.8",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "e0b487de3ccd3d1c288976677835e49880799c35507059039a18fa4ae1e7c59a"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "fa57d5adf557b226738cd42e6c093dd0a76c5fd4"
+        },
+        {
+          "alg": "MD5",
+          "content": "a89b66cf37063d0ee4f401193eb0ca2d"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.junit.vintage:junit-vintage-engine:5.9.1",
+      "type": "library",
+      "group": "org.junit.vintage",
+      "name": "junit-vintage-engine",
+      "version": "5.9.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "b97de493877c9ba5e4f03b44bd348a53e5fc9df2df5b1a048923e0204f7d7178"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "4c97e4ce083cb5fc5ff59f66d62896b30da0853b"
+        },
+        {
+          "alg": "MD5",
+          "content": "067bf6cefc410143924bdcd88762d101"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.junit.platform:junit-platform-launcher:1.9.1",
+      "type": "library",
+      "group": "org.junit.platform",
+      "name": "junit-platform-launcher",
+      "version": "1.9.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "5fb50ef56168358892e1bd0a080e2e5bb74dc882b2ecc2a9bad0eadb5a6a449e"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "b4534f5130dcfb10e8ac41a5fba6ec656c9ede06"
+        },
+        {
+          "alg": "MD5",
+          "content": "8578cdd9fe5e2b98ae431b4bb8e9ee88"
+        }
+      ]
+    },
+    {
+      "bom-ref": "commons-lang:commons-lang:2.6",
+      "type": "library",
+      "group": "commons-lang",
+      "name": "commons-lang",
+      "version": "2.6",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "50f11b09f877c294d56f24463f47d28f929cf5044f648661c0f0cfbae9a2f49c"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "0ce1edb914c94ebc388f086c6827e8bdeec71ac2"
+        },
+        {
+          "alg": "MD5",
+          "content": "4d5c1693079575b362edf41500630bbd"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.mockito:mockito-core:4.8.1",
+      "type": "library",
+      "group": "org.mockito",
+      "name": "mockito-core",
+      "version": "4.8.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "1327bd8e0fab61be72d2cbe8b7b72f789f88644c9d5da5be23f9ec2a47c476ce"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "d8eb9dec8747d08645347bb8c69088ac83197975"
+        },
+        {
+          "alg": "MD5",
+          "content": "98a99e5f8fae1dcfb107b09f9d97eb30"
+        }
+      ]
+    },
+    {
+      "bom-ref": "com.fasterxml.jackson.core:jackson-databind:2.14.0",
+      "type": "library",
+      "group": "com.fasterxml.jackson.core",
+      "name": "jackson-databind",
+      "version": "2.14.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "54377fa855f52ed87e8f689b35249971840b16870dee76806d5d200cbcd66f27"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "513b8ca3fea0352ceebe4d0bbeea527ab343dc1a"
+        },
+        {
+          "alg": "MD5",
+          "content": "f94ffc53b4062cae1f383a4482593020"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.junit.jupiter:junit-jupiter-api:5.9.1",
+      "type": "library",
+      "group": "org.junit.jupiter",
+      "name": "junit-jupiter-api",
+      "version": "5.9.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "5d2fe4d719dffb25a95d77e9c7a34893cbbb1b4cc6c86f2726af7e0fb7035b2f"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "7bb53fbc0173e9f6a9d21d58297af94b1f2f9ce1"
+        },
+        {
+          "alg": "MD5",
+          "content": "93dac73a55b522940bf3d5d032a8043a"
+        }
+      ]
+    },
+    {
+      "bom-ref": "com.fasterxml.jackson.core:jackson-annotations:2.14.0",
+      "type": "library",
+      "group": "com.fasterxml.jackson.core",
+      "name": "jackson-annotations",
+      "version": "2.14.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "efaff8693acbae673468d251b5e5ea8fc7ce1b852327bccf1cce72244c2e5f1c"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "fb7afb3c9c8ea363a9c88ea9c0a7177cf2fbd369"
+        },
+        {
+          "alg": "MD5",
+          "content": "9dd0a11ebc38409f2e6ae5bc4c7b6aa4"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.apache.commons:commons-digester3:3.2",
+      "type": "library",
+      "group": "org.apache.commons",
+      "name": "commons-digester3",
+      "version": "3.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "1c150e3d2df4b4237b47e28fea2079fb0da324578d5cca6a5fed2e37a62082ec"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "c3f68c5ff25ec5204470fd8fdf4cb8feff5e8a79"
+        },
+        {
+          "alg": "MD5",
+          "content": "41d2c62c7aedafa7a3627794abc83f71"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.hamcrest:hamcrest:2.2",
+      "type": "library",
+      "group": "org.hamcrest",
+      "name": "hamcrest",
+      "version": "2.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "5e62846a89f05cd78cd9c1a553f340d002458380c320455dd1f8fc5497a8a1c1"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "1820c0968dba3a11a1b30669bb1f01978a91dedc"
+        },
+        {
+          "alg": "MD5",
+          "content": "10b47e837f271d0662f28780e60388e8"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.hamcrest:hamcrest-core:2.2",
+      "type": "library",
+      "group": "org.hamcrest",
+      "name": "hamcrest-core",
+      "version": "2.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "094f5d92b4b7d9c8a2bf53cc69d356243ae89c3499457bcb4b92f7ed3bf95879"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "3f2bd07716a31c395e2837254f37f21f0f0ab24b"
+        },
+        {
+          "alg": "MD5",
+          "content": "be43e37f4c7b4f6fadba382933006b15"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.slf4j:log4j-over-slf4j:1.7.36",
+      "type": "library",
+      "group": "org.slf4j",
+      "name": "log4j-over-slf4j",
+      "version": "1.7.36",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "0a7e032bf5bcdd5b2bf8bf2e5cf02c5646f2aa6fee66933b8150dbe84e651e8a"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "2a753acda077203a4794f106871bb237501c9a53"
+        },
+        {
+          "alg": "MD5",
+          "content": "84f330e9fc7173791d253773b3575a63"
+        }
+      ]
+    },
+    {
+      "bom-ref": "net.sf.json-lib:json-lib:2.4",
+      "type": "library",
+      "group": "net.sf.json-lib",
+      "name": "json-lib",
+      "version": "2.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8290f8871ebd3db52e36c6fa844fe172895b2c714ea589cfed3d78ad9c01a924"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "136743e0d12df4e785e62b48618cee169b2ae546"
+        },
+        {
+          "alg": "MD5",
+          "content": "f5db294d05b3d5a5bfb873455b0a8626"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.apiguardian:apiguardian-api:1.1.2",
+      "type": "library",
+      "group": "org.apiguardian",
+      "name": "apiguardian-api",
+      "version": "1.1.2",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "b509448ac506d607319f182537f0b35d71007582ec741832a1f111e5b5b70b38"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "a231e0d844d2721b0fa1b238006d15c6ded6842a"
+        },
+        {
+          "alg": "MD5",
+          "content": "8c7de3f82037fa4a2e8be2a2f13092af"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-velocity:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-velocity",
+      "version": "14.10.19",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "910025e8e32e414ae5fd7ebcd240d959e6b775d51b2ae86fa6c34a037f872c87"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "5ace536b09fb638f21fcbb9478a1cb28565c1abf"
+        },
+        {
+          "alg": "MD5",
+          "content": "b66e0f057b3cc80fe4935fd2631acf74"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.junit.jupiter:junit-jupiter-params:5.9.1",
+      "type": "library",
+      "group": "org.junit.jupiter",
+      "name": "junit-jupiter-params",
+      "version": "5.9.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "30157f26d857ba4f84c0d84d156f55f056e80dc09b4281affa8b1ed4d3205c08"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "ffcd1013edaeee112be11fcddeb38882d79238de"
+        },
+        {
+          "alg": "MD5",
+          "content": "8f9ff451bb9e8e44e1e71c3f8708e85e"
+        }
+      ]
+    },
+    {
+      "bom-ref": "net.sf.ezmorph:ezmorph:1.0.6",
+      "type": "library",
+      "group": "net.sf.ezmorph",
+      "name": "ezmorph",
+      "version": "1.0.6",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "2be06a2380f8656426b5c610db694bbd75314caf3e9191affcd7942721398ed7"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "01e55d2a0253ea37745d33062852fd2c90027432"
+        },
+        {
+          "alg": "MD5",
+          "content": "1fa113c6aacf3a01af1449df77acd474"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.junit.jupiter:junit-jupiter-engine:5.9.1",
+      "type": "library",
+      "group": "org.junit.jupiter",
+      "name": "junit-jupiter-engine",
+      "version": "5.9.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "8bbc506b4f603ede1f6bafd8eee69a9cc43de0c26a0ee8d40d583d3feeedc2e9"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "1bf771097bde296c3ab174861954e8aafaaf2e94"
+        },
+        {
+          "alg": "MD5",
+          "content": "72817d3efd98d986d847c2ed76eef329"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.ow2.asm:asm:9.4",
+      "type": "library",
+      "group": "org.ow2.asm",
+      "name": "asm",
+      "version": "9.4",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "39d0e2b3dc45af65a09b097945750a94a126e052e124f93468443a1d0e15f381"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "b4e0e2d2e023aa317b7cfcfc916377ea348e07d1"
+        },
+        {
+          "alg": "MD5",
+          "content": "ffa64f03a23a4823d98703e6ce6ff397"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.commons:xwiki-commons-tool-test-component:14.10.19",
+      "type": "library",
+      "group": "org.xwiki.commons",
+      "name": "xwiki-commons-tool-test-component",
+      "version": "14.10.19",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "ee1e212ea4318ef3623720646b1a67eb2ba82c6359056394e286c4dc202afb2b"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "bc5e7ffc035555479c430a1fbc2007d4adf5874d"
+        },
+        {
+          "alg": "MD5",
+          "content": "cfdc1f81908d33ae1dbc8294bc1373a7"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.jmock:jmock-legacy:2.12.0",
+      "type": "library",
+      "group": "org.jmock",
+      "name": "jmock-legacy",
+      "version": "2.12.0",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "dea3a9cca653d082e2fe7e40232e982fe03a9984c7d67ceff24f3e03fe580dcd"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "618d989491e9e7cf3dae38754d8695a857365b83"
+        },
+        {
+          "alg": "MD5",
+          "content": "9e426abcfc71b2a6d6907182be81a297"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-syntax-xdomxml10:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-syntax-xdomxml10",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-syntax-docbook:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-syntax-docbook",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.apache.maven.doxia:doxia-module-docbook-simple:1.11.1",
+      "type": "library",
+      "group": "org.apache.maven.doxia",
+      "name": "doxia-module-docbook-simple",
+      "version": "1.11.1",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "f7225cd90b02360459bf3b8bac1721b359c1d086a067068a09241c3097ee0046"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "46ff25d7ab8df94e195937c348ef65a5cd3e7b39"
+        },
+        {
+          "alg": "MD5",
+          "content": "83ccb5ec10b98eb8e46f1269fbb8b1f2"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-transformation-linkchecker:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-transformation-linkchecker",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "com.google.j2objc:j2objc-annotations:1.3",
+      "type": "library",
+      "group": "com.google.j2objc",
+      "name": "j2objc-annotations",
+      "version": "1.3"
+    },
+    {
+      "bom-ref": "com.github.tomakehurst:wiremock:1.46",
+      "type": "library",
+      "group": "com.github.tomakehurst",
+      "name": "wiremock",
+      "version": "1.46"
+    },
+    {
+      "bom-ref": "com.google.guava:guava:31.1-jre",
+      "type": "library",
+      "group": "com.google.guava",
+      "name": "guava",
+      "version": "31.1-jre"
+    },
+    {
+      "bom-ref": "com.google.errorprone:error_prone_annotations:2.16",
+      "type": "library",
+      "group": "com.google.errorprone",
+      "name": "error_prone_annotations",
+      "version": "2.16"
+    },
+    {
+      "bom-ref": "net.minidev:json-smart:1.1.1",
+      "type": "library",
+      "group": "net.minidev",
+      "name": "json-smart",
+      "version": "1.1.1"
+    },
+    {
+      "bom-ref": "junit:junit-dep:4.10",
+      "type": "library",
+      "group": "junit",
+      "name": "junit-dep",
+      "version": "4.10"
+    },
+    {
+      "bom-ref": "org.mortbay.jetty:jetty:6.1.26",
+      "type": "library",
+      "group": "org.mortbay.jetty",
+      "name": "jetty",
+      "version": "6.1.26"
+    },
+    {
+      "bom-ref": "com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava",
+      "type": "library",
+      "group": "com.google.guava",
+      "name": "listenablefuture",
+      "version": "9999.0-empty-to-avoid-conflict-with-guava"
+    },
+    {
+      "bom-ref": "org.mortbay.jetty:jetty-util:6.1.26",
+      "type": "library",
+      "group": "org.mortbay.jetty",
+      "name": "jetty-util",
+      "version": "6.1.26"
+    },
+    {
+      "bom-ref": "com.google.guava:failureaccess:1.0.1",
+      "type": "library",
+      "group": "com.google.guava",
+      "name": "failureaccess",
+      "version": "1.0.1"
+    },
+    {
+      "bom-ref": "xmlunit:xmlunit:1.5",
+      "type": "library",
+      "group": "xmlunit",
+      "name": "xmlunit",
+      "version": "1.5"
+    },
+    {
+      "bom-ref": "org.checkerframework:checker-qual:3.27.0",
+      "type": "library",
+      "group": "org.checkerframework",
+      "name": "checker-qual",
+      "version": "3.27.0"
+    },
+    {
+      "bom-ref": "org.skyscreamer:jsonassert:1.2.1",
+      "type": "library",
+      "group": "org.skyscreamer",
+      "name": "jsonassert",
+      "version": "1.2.1"
+    },
+    {
+      "bom-ref": "net.sf.jopt-simple:jopt-simple:4.3",
+      "type": "library",
+      "group": "net.sf.jopt-simple",
+      "name": "jopt-simple",
+      "version": "4.3"
+    },
+    {
+      "bom-ref": "com.jayway.jsonpath:json-path:0.8.1",
+      "type": "library",
+      "group": "com.jayway.jsonpath",
+      "name": "json-path",
+      "version": "0.8.1"
+    },
+    {
+      "bom-ref": "org.mortbay.jetty:servlet-api:2.5-20081211",
+      "type": "library",
+      "group": "org.mortbay.jetty",
+      "name": "servlet-api",
+      "version": "2.5-20081211"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-integration-tests:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-integration-tests",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.apache.maven.doxia:doxia-module-twiki:1.11.1",
+      "type": "library",
+      "group": "org.apache.maven.doxia",
+      "name": "doxia-module-twiki",
+      "version": "1.11.1"
+    },
+    {
+      "bom-ref": "org.codehaus.plexus:plexus-component-annotations:2.1.1",
+      "type": "library",
+      "group": "org.codehaus.plexus",
+      "name": "plexus-component-annotations",
+      "version": "2.1.1"
+    },
+    {
+      "bom-ref": "org.codehaus.plexus:plexus-classworlds:2.6.0",
+      "type": "library",
+      "group": "org.codehaus.plexus",
+      "name": "plexus-classworlds",
+      "version": "2.6.0"
+    },
+    {
+      "bom-ref": "org.apache.maven.doxia:doxia-core:1.11.1",
+      "type": "library",
+      "group": "org.apache.maven.doxia",
+      "name": "doxia-core",
+      "version": "1.11.1"
+    },
+    {
+      "bom-ref": "org.codehaus.plexus:plexus-container-default:2.1.1",
+      "type": "library",
+      "group": "org.codehaus.plexus",
+      "name": "plexus-container-default",
+      "version": "2.1.1"
+    },
+    {
+      "bom-ref": "org.codehaus.plexus:plexus-utils:3.5.0",
+      "type": "library",
+      "group": "org.codehaus.plexus",
+      "name": "plexus-utils",
+      "version": "3.5.0"
+    },
+    {
+      "bom-ref": "org.apache.maven.doxia:doxia-module-docbook-simple:1.11.1",
+      "type": "library",
+      "group": "org.apache.maven.doxia",
+      "name": "doxia-module-docbook-simple",
+      "version": "1.11.1"
+    },
+    {
+      "bom-ref": "org.apache.xbean:xbean-reflect:3.7",
+      "type": "library",
+      "group": "org.apache.xbean",
+      "name": "xbean-reflect",
+      "version": "3.7"
+    },
+    {
+      "bom-ref": "org.apache.maven.doxia:doxia-sink-api:1.11.1",
+      "type": "library",
+      "group": "org.apache.maven.doxia",
+      "name": "doxia-sink-api",
+      "version": "1.11.1"
+    },
+    {
+      "bom-ref": "org.apache.maven.doxia:doxia-logging-api:1.11.1",
+      "type": "library",
+      "group": "org.apache.maven.doxia",
+      "name": "doxia-logging-api",
+      "version": "1.11.1"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-macro-html:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-macro-html",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.mortbay.jasper:apache-el:9.0.52",
+      "type": "library",
+      "group": "org.mortbay.jasper",
+      "name": "apache-el",
+      "version": "9.0.52"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-macro-toc:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-macro-toc",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-syntaxes:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-syntaxes",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-macro-content:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-macro-content",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-macro-raw:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-macro-raw",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.xwiki.rendering:xwiki-rendering-macro-id:14.10.19",
+      "type": "application",
+      "group": "org.xwiki.rendering",
+      "name": "xwiki-rendering-macro-id",
+      "version": "14.10.19"
+    },
+    {
+      "bom-ref": "org.jboss.logging:jboss-logging:3.5.0.Final",
+      "type": "library",
+      "group": "org.jboss.logging",
+      "name": "jboss-logging",
+      "version": "3.5.0.Final"
+    },
+    {
+      "bom-ref": "org.mortbay.jasper:apache-el:9.0.52",
+      "type": "library",
+      "group": "org.mortbay.jasper",
+      "name": "apache-el",
+      "version": "9.0.52",
+      "hashes": [
+        {
+          "alg": "SHA-256",
+          "content": "bf32bee824aca5283991a89f8196245fd5307c614c06b25ae409866e0b543ebd"
+        },
+        {
+          "alg": "SHA-1",
+          "content": "aee292582ce4e33de7ce90f4febf2ade3dd5aeeb"
+        },
+        {
+          "alg": "MD5",
+          "content": "2dd281eeac02d706363e184fd9b1b4b7"
+        }
+      ]
+    },
+    {
+      "bom-ref": "org.hibernate.validator:hibernate-validator:6.2.4.Final",
+      "type": "library",
+      "group": "org.hibernate.validator",
+      "name": "hibernate-validator",
+      "version": "6.2.4.Final"
+    },
+    {
+      "bom-ref": "com.fasterxml:classmate:1.5.1",
+      "type": "library",
+      "group": "com.fasterxml",
+      "name": "classmate",
+      "version": "1.5.1"
+    }
+  ],
+  "dependencies": [
+    {
+      "ref": "junit:junit:4.13.2",
+      "dependsOn": [
+        "org.hamcrest:hamcrest-core:2.2"
+      ]
+    },
+    {
+      "ref": "org.apache.maven.doxia:doxia-module-twiki:1.11.1",
+      "dependsOn": [
+        "org.codehaus.plexus:plexus-utils:3.5.0",
+        "org.apache.maven.doxia:doxia-sink-api:1.11.1",
+        "org.codehaus.plexus:plexus-component-annotations:2.1.1"
+      ]
+    },
+    {
+      "ref": "org.xwiki.rendering:xwiki-rendering-syntax-wikimodel:14.10.19",
+      "dependsOn": [
+        "org.xwiki.rendering:xwiki-rendering-wikimodel:14.10.19",
+        "org.xwiki.commons:xwiki-commons-xml:14.10.19"
+      ]
+    },
+    {
+      "ref": "org.xwiki.commons:xwiki-commons-text:14.10.19",
+      "dependsOn": [
+        "org.xwiki.commons:xwiki-commons-stability:14.10.19"
+      ]
+    },
+    {
+      "ref": "org.xwiki.rendering:xwiki-rendering-test:14.10.19",
+      "dependsOn": [
+        "org.reflections:reflections:0.10.2",
+        "org.xwiki.commons:xwiki-commons-text:14.10.19",
+        "org.apache.commons:commons-lang3:3.12.0",
+        "org.apache.velocity:velocity-engine-core:2.3",
+        "org.apache.commons:commons-configuration2:2.8.0",
+        "org.xwiki.commons:xwiki-commons-velocity:14.10.19",
+        "org.xwiki.commons:xwiki-commons-tool-test-component:14.10.19",
+        "commons-io:commons-io:2.11.0",
+        "org.xwiki.rendering:xwiki-rendering-syntax-xdomxmlcurrent:14.10.19"
+      ]
+    },
+    {
+      "ref": "org.xwiki.commons:xwiki-commons-component-default:14.10.19",
+      "dependsOn": [
+        "org.xwiki.commons:xwiki-commons-component-observation:14.10.19"
+      ]
+    },
+    {
+      "ref": "org.xwiki.rendering:xwiki-rendering-api:14.10.19",
+      "dependsOn": [
+        "org.xwiki.commons:xwiki-commons-properties:14.10.19",
+        "org.apache.commons:commons-lang3:3.12.0",
+        "org.xwiki.commons:xwiki-commons-configuration-api:14.10.19",
+        "org.xwiki.commons:xwiki-commons-text:14.10.19",
+        "org.xwiki.commons:xwiki-commons-filter-api:14.10.19",
+        "org.xwiki.commons:xwiki-commons-context:14.10.19",
+        "org.xwiki.commons:xwiki-commons-observation-local:14.10.19"
+      ]
+    },
+    {
+      "ref": "com.thoughtworks.xstream:xstream:1.4.17",
+      "dependsOn": [
+        "io.github.x-stream:mxparser:1.2.1"
+      ]
+    },
+    {
+      "ref": "org.xwiki.commons:xwiki-commons-tool-test-component:14.10.19",
+      "dependsOn": [
+        "org.xwiki.commons:xwiki-commons-tool-test-simple:14.10.19",
+        "org.xwiki.commons:xwiki-commons-component-default:14.10.19",
+        "org.xwiki.commons:xwiki-commons-observation-api:14.10.19",
+        "org.xwiki.commons:xwiki-commons-environment-api:14.10.19"
+      ]
+    },
+    {
+      "ref": "io.github.x-stream:mxparser:1.2.1",
+      "dependsOn": [
+        "xmlpull:xmlpull:1.1.3.1"
+      ]
+    },
+    {
+      "ref": "org.xwiki.rendering:xwiki-rendering-xml:14.10.19",
+      "dependsOn": [
+        "org.dom4j:dom4j:2.1.3",
+        "xerces:xercesImpl:2.12.2",
+        "org.xwiki.commons:xwiki-commons-xml:14.10.19"
+      ]
+    },
+    {
+      "ref": "org.xwiki.commons:xwiki-commons-filter-xml:14.10.19",
+      "dependsOn": [
+        "com.thoughtworks.xstream:xstream:1.4.17"
+      ]
+    },
+    {
+      "ref": "org.xwiki.rendering:xwiki-rendering-transformation-linkchecker:14.10.19",
+      "dependsOn": [
+        "com.github.tomakehurst:wiremock:1.46"
+      ]
+    },
+    {
+      "ref": "net.sourceforge.htmlcleaner:htmlcleaner:2.24",
+      "dependsOn": [
+        "org.jdom:jdom2:2.0.6.1"
+      ]
+    },
+    {
+      "ref": "org.xwiki.rendering:xwiki-rendering-syntax-apt:14.10.19",
+      "dependsOn": [
+        "org.apache.maven.doxia:doxia-module-apt:1.11.1"
+      ]
+    },
+    {
+      "ref": "org.xwiki.rendering:xwiki-rendering-syntax-html5:14.10.19",
+      "dependsOn": [
+        "org.xwiki.rendering:xwiki-rendering-macro-figure:14.10.19"
+      ]
+    },
+    {
+      "ref": "org.junit.jupiter:junit-jupiter-api:5.9.1",
+      "dependsOn": [
+        "org.opentest4j:opentest4j:1.2.0",
+        "org.junit.platform:junit-platform-commons:1.9.1"
+      ]
+    },
+    {
+      "ref": "org.reflections:reflections:0.10.2",
+      "dependsOn": [
+        "org.javassist:javassist:3.29.2-GA",
+        "org.slf4j:slf4j-api:1.7.36",
+        "com.google.code.findbugs:jsr305:3.0.2"
+      ]
+    },
+    {
+      "ref": "org.jmock:jmock-junit4:2.12.0",
+      "dependsOn": [
+        "org.jmock:jmock-legacy:2.12.0",
+        "org.jmock:jmock-imposters:2.12.0"
+      ]
+    },
+    {
+      "ref": "org.xwiki.rendering:xwiki-rendering-syntax-xwiki20:14.10.19",
+      "dependsOn": [
+        "org.xwiki.rendering:xwiki-rendering-syntax-plain:14.10.19"
+      ]
+    },
+    {
+      "ref": "commons-beanutils:commons-beanutils:1.9.4",
+      "dependsOn": [
+        "commons-collections:commons-collections:3.2.2"
+      ]
+    },
+    {
+      "ref": "org.mockito:mockito-core:4.8.1",
+      "dependsOn": [
+        "net.bytebuddy:byte-buddy:1.12.18",
+        "org.objenesis:objenesis:3.3",
+        "net.bytebuddy:byte-buddy-agent:1.12.18"
+      ]
+    },
+    {
+      "ref": "org.xwiki.commons:xwiki-commons-script:14.10.19",
+      "dependsOn": [
+        "org.xwiki.commons:xwiki-commons-observation-api:14.10.19"
+      ]
+    },
+    {
+      "ref": "org.junit.platform:junit-platform-launcher:1.9.1",
+      "dependsOn": [
+        "org.junit.platform:junit-platform-engine:1.9.1",
+        "org.apiguardian:apiguardian-api:1.1.2"
+      ]
+    },
+    {
+      "ref": "org.xwiki.rendering:xwiki-rendering-macro-toc:14.10.19",
+      "dependsOn": [
+        "org.mortbay.jasper:apache-el:9.0.52",
+        "org.hibernate.validator:hibernate-validator:6.2.4.Final"
+      ]
+    },
+    {
+      "ref": "org.hibernate.validator:hibernate-validator:6.2.4.Final",
+      "dependsOn": [
+        "org.jboss.logging:jboss-logging:3.5.0.Final",
+        "com.fasterxml:classmate:1.5.1"
+      ]
+    },
+    {
+      "ref": "org.jmock:jmock:2.12.0",
+      "dependsOn": [
+        "org.apache-extras.beanshell:bsh:2.0b6",
+        "org.hamcrest:hamcrest:2.2",
+        "org.jmock:jmock-testjar:2.12.0",
+        "org.ow2.asm:asm:9.4"
+      ]
+    },
+    {
+      "ref": "ch.qos.logback:logback-classic:1.2.11",
+      "dependsOn": [
+        "ch.qos.logback:logback-core:1.2.11"
+      ]
+    },
+    {
+      "ref": "org.apache.httpcomponents:httpclient:4.5.13",
+      "dependsOn": [
+        "org.apache.httpcomponents:httpcore:4.4.15"
+      ]
+    },
+    {
+      "ref": "org.junit.jupiter:junit-jupiter:5.9.1",
+      "dependsOn": [
+        "org.junit.jupiter:junit-jupiter-engine:5.9.1",
+        "org.junit.jupiter:junit-jupiter-api:5.9.1",
+        "org.junit.jupiter:junit-jupiter-params:5.9.1"
+      ]
+    },
+    {
+      "ref": "com.fasterxml.jackson.core:jackson-databind:2.14.0",
+      "dependsOn": [
+        "com.fasterxml.jackson.core:jackson-annotations:2.14.0"
+      ]
+    },
+    {
+      "ref": "org.xwiki.commons:xwiki-commons-tool-test-simple:14.10.19",
+      "dependsOn": [
+        "org.mockito:mockito-junit-jupiter:4.8.1",
+        "org.junit.vintage:junit-vintage-engine:5.9.1",
+        "org.junit.platform:junit-platform-launcher:1.9.1",
+        "org.junit.jupiter:junit-jupiter:5.9.1",
+        "org.hamcrest:hamcrest-library:2.2",
+        "org.jmock:jmock:2.12.0",
+        "junit:junit:4.13.2",
+        "ch.qos.logback:logback-classic:1.2.11",
+        "org.slf4j:log4j-over-slf4j:1.7.36",
+        "org.slf4j:jcl-over-slf4j:1.7.36",
+        "org.jmock:jmock-junit4:2.12.0",
+        "org.mockito:mockito-core:4.8.1"
+      ]
+    },
+    {
+      "ref": "org.xwiki.rendering:xwiki-rendering-syntax-xdomxmlcurrent:14.10.19",
+      "dependsOn": [
+        "org.xwiki.commons:xwiki-commons-filter-xml:14.10.19"
+      ]
+    },
+    {
+      "ref": "org.apache.velocity.tools:velocity-tools-generic:3.1",
+      "dependsOn": [
+        "com.github.cliftonlabs:json-simple:3.0.2",
+        "org.apache.commons:commons-digester3:3.2"
+      ]
+    },
+    {
+      "ref": "org.xwiki.rendering:xwiki-rendering-syntax-docbook:14.10.19",
+      "dependsOn": [
+        "org.apache.maven.doxia:doxia-module-docbook-simple:1.11.1"
+      ]
+    },
+    {
+      "ref": "org.xwiki.rendering:xwiki-rendering-syntax-xhtml:14.10.19",
+      "dependsOn": [
+        "org.xwiki.rendering:xwiki-rendering-syntax-wikimodel:14.10.19",
+        "org.xwiki.rendering:xwiki-rendering-xml:14.10.19"
+      ]
+    },
+    {
+      "ref": "org.xwiki.rendering:xwiki-rendering-transformation-macro:14.10.19",
+      "dependsOn": [
+        "org.xwiki.commons:xwiki-commons-properties:14.10.19"
+      ]
+    },
+    {
+      "ref": "org.xwiki.rendering:xwiki-rendering-archetype-macro:14.10.19",
+      "dependsOn": [
+        "org.xwiki.rendering:xwiki-rendering-test:14.10.19",
+        "org.xwiki.rendering:xwiki-rendering-transformation-macro:14.10.19"
+      ]
+    },
+    {
+      "ref": "org.xwiki.commons:xwiki-commons-logging-common:14.10.19",
+      "dependsOn": [
+        "org.xwiki.commons:xwiki-commons-logging-api:14.10.19"
+      ]
+    },
+    {
+      "ref": "org.xwiki.rendering:xwiki-rendering-macro-message:14.10.19",
+      "dependsOn": [
+        "org.xwiki.rendering:xwiki-rendering-macro-box:14.10.19"
+      ]
+    },
+    {
+      "ref": "com.google.guava:guava:31.1-jre",
+      "dependsOn": [
+        "com.google.j2objc:j2objc-annotations:1.3",
+        "com.google.errorprone:error_prone_annotations:2.16",
+        "com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava",
+        "com.google.guava:failureaccess:1.0.1",
+        "org.checkerframework:checker-qual:3.27.0"
+      ]
+    },
+    {
+      "ref": "org.apache.maven.doxia:doxia-core:1.11.1",
+      "dependsOn": [
+        "org.apache.httpcomponents:httpcore:4.4.15",
+        "org.apache.httpcomponents:httpclient:4.5.13",
+        "org.codehaus.plexus:plexus-container-default:2.1.1",
+        "org.apache.maven.doxia:doxia-logging-api:1.11.1"
+      ]
+    },
+    {
+      "ref": "com.github.tomakehurst:wiremock:1.46",
+      "dependsOn": [
+        "com.google.guava:guava:31.1-jre",
+        "junit:junit-dep:4.10",
+        "org.mortbay.jetty:jetty:6.1.26",
+        "xmlunit:xmlunit:1.5",
+        "org.skyscreamer:jsonassert:1.2.1",
+        "net.sf.jopt-simple:jopt-simple:4.3",
+        "com.jayway.jsonpath:json-path:0.8.1"
+      ]
+    },
+    {
+      "ref": "org.xwiki.rendering:xwiki-rendering-macro-html:14.10.19",
+      "dependsOn": [
+        "org.xwiki.rendering:xwiki-rendering-macro-toc:14.10.19"
+      ]
+    },
+    {
+      "ref": "org.xwiki.commons:xwiki-commons-component-api:14.10.19",
+      "dependsOn": [
+        "org.slf4j:slf4j-api:1.7.36",
+        "javax.inject:javax.inject:1"
+      ]
+    },
+    {
+      "ref": "org.xwiki.rendering:xwiki-rendering-transformations:14.10.19",
+      "dependsOn": [
+        "org.xwiki.rendering:xwiki-rendering-syntax-xhtml:14.10.19",
+        "org.xwiki.rendering:xwiki-rendering-syntax-event:14.10.19",
+        "org.xwiki.rendering:xwiki-rendering-api:14.10.19",
+        "org.xwiki.rendering:xwiki-rendering-syntax-xwiki21:14.10.19"
+      ]
+    },
+    {
+      "ref": "net.sf.json-lib:json-lib:2.4",
+      "dependsOn": [
+        "commons-lang:commons-lang:2.6",
+        "net.sf.ezmorph:ezmorph:1.0.6"
+      ]
+    },
+    {
+      "ref": "org.xwiki.commons:xwiki-commons-filter-api:14.10.19",
+      "dependsOn": [
+        "org.xwiki.commons:xwiki-commons-job-api:14.10.19",
+        "org.xwiki.commons:xwiki-commons-component-api:14.10.19"
+      ]
+    },
+    {
+      "ref": "org.xwiki.rendering:xwiki-rendering-syntax-xwiki21:14.10.19",
+      "dependsOn": [
+        "org.xwiki.rendering:xwiki-rendering-syntax-xwiki20:14.10.19"
+      ]
+    },
+    {
+      "ref": "org.jmock:jmock-legacy:2.12.0",
+      "dependsOn": [
+        "cglib:cglib:3.3.0"
+      ]
+    },
+    {
+      "ref": "com.jayway.jsonpath:json-path:0.8.1",
+      "dependsOn": [
+        "net.minidev:json-smart:1.1.1"
+      ]
+    },
+    {
+      "ref": "org.xwiki.commons:xwiki-commons-job-api:14.10.19",
+      "dependsOn": [
+        "org.apache.commons:commons-configuration2:2.8.0",
+        "org.apache.commons:commons-collections4:4.4",
+        "org.xwiki.commons:xwiki-commons-xstream:14.10.19",
+        "org.xwiki.commons:xwiki-commons-logging-common:14.10.19",
+        "org.xwiki.commons:xwiki-commons-component-observation:14.10.19",
+        "commons-io:commons-io:2.11.0",
+        "com.thoughtworks.xstream:xstream:1.4.17",
+        "org.xwiki.commons:xwiki-commons-script:14.10.19",
+        "org.xwiki.commons:xwiki-commons-environment-api:14.10.19",
+        "org.xwiki.commons:xwiki-commons-cache-api:14.10.19"
+      ]
+    },
+    {
+      "ref": "org.xwiki.rendering:xwiki-rendering-wikimodel:14.10.19",
+      "dependsOn": [
+        "net.sourceforge.cssparser:cssparser:0.9.29"
+      ]
+    },
+    {
+      "ref": "org.xwiki.commons:xwiki-commons-configuration-api:14.10.19",
+      "dependsOn": [
+        "commons-beanutils:commons-beanutils:1.9.4"
+      ]
+    },
+    {
+      "ref": "org.xwiki.rendering:xwiki-rendering-syntax-doxia:14.10.19",
+      "dependsOn": [
+        "org.apache.maven.doxia:doxia-core:1.11.1"
+      ]
+    },
+    {
+      "ref": "org.xwiki.commons:xwiki-commons-xml:14.10.19",
+      "dependsOn": [
+        "net.sourceforge.htmlcleaner:htmlcleaner:2.24",
+        "org.apache.commons:commons-text:1.10.0",
+        "com.fasterxml.woodstox:woodstox-core:6.4.0",
+        "org.jdom:jdom:1.1.3",
+        "org.xwiki.commons:xwiki-commons-script:14.10.19",
+        "xerces:xercesImpl:2.12.2",
+        "net.java.dev.stax-utils:stax-utils:20070216"
+      ]
+    },
+    {
+      "ref": "org.xwiki.commons:xwiki-commons-velocity:14.10.19",
+      "dependsOn": [
+        "org.apache.velocity.tools:velocity-tools-generic:3.1",
+        "org.xwiki.commons:xwiki-commons-management:14.10.19",
+        "com.tdunning:json:1.8",
+        "com.fasterxml.jackson.core:jackson-core:2.14.0",
+        "com.fasterxml.jackson.core:jackson-databind:2.14.0",
+        "commons-codec:commons-codec:1.15",
+        "org.apache.httpcomponents:httpclient:4.5.13",
+        "org.xwiki.commons:xwiki-commons-logging-api:14.10.19",
+        "org.apache.commons:commons-collections4:4.4",
+        "net.sf.json-lib:json-lib:2.4"
+      ]
+    },
+    {
+      "ref": "org.xwiki.rendering:xwiki-rendering-syntax-twiki:14.10.19",
+      "dependsOn": [
+        "org.apache.maven.doxia:doxia-module-twiki:1.11.1",
+        "org.xwiki.rendering:xwiki-rendering-syntax-doxia:14.10.19"
+      ]
+    },
+    {
+      "ref": "org.codehaus.plexus:plexus-container-default:2.1.1",
+      "dependsOn": [
+        "org.codehaus.plexus:plexus-classworlds:2.6.0",
+        "org.apache.xbean:xbean-reflect:3.7"
+      ]
+    },
+    {
+      "ref": "org.mortbay.jetty:jetty:6.1.26",
+      "dependsOn": [
+        "org.mortbay.jetty:jetty-util:6.1.26",
+        "org.mortbay.jetty:servlet-api:2.5-20081211"
+      ]
+    },
+    {
+      "ref": "org.apache.maven.doxia:doxia-module-docbook-simple:1.11.1",
+      "dependsOn": [
+        "org.codehaus.plexus:plexus-component-annotations:2.1.1",
+        "org.codehaus.plexus:plexus-utils:3.5.0",
+        "org.apache.maven.doxia:doxia-sink-api:1.11.1"
+      ]
+    },
+    {
+      "ref": "net.sourceforge.cssparser:cssparser:0.9.29",
+      "dependsOn": [
+        "org.w3c.css:sac:1.3"
+      ]
+    },
+    {
+      "ref": "org.xwiki.commons:xwiki-commons-properties:14.10.19",
+      "dependsOn": [
+        "org.xwiki.commons:xwiki-commons-collection:14.10.19",
+        "jakarta.validation:jakarta.validation-api:2.0.2",
+        "commons-beanutils:commons-beanutils:1.9.4",
+        "org.xwiki.commons:xwiki-commons-component-api:14.10.19"
+      ]
+    },
+    {
+      "ref": "com.fasterxml.woodstox:woodstox-core:6.4.0",
+      "dependsOn": [
+        "org.codehaus.woodstox:stax2-api:4.2.1"
+      ]
+    }
+  ]
+}
