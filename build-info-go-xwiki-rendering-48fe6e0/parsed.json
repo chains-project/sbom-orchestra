@@ -1,0 +1,1664 @@
+[
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-transformations",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-xstream",
+    "version": "14.10.19",
+    "depth": 4
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-properties",
+    "version": "14.10.19",
+    "depth": 2
+  },
+  {
+    "groupId": "org.w3c.css",
+    "artifactId": "sac",
+    "version": "1.3",
+    "depth": 5
+  },
+  {
+    "groupId": "org.slf4j",
+    "artifactId": "slf4j-api",
+    "version": "1.7.36",
+    "depth": 3
+  },
+  {
+    "groupId": "net.java.dev.stax-utils",
+    "artifactId": "stax-utils",
+    "version": "20070216",
+    "depth": 4
+  },
+  {
+    "groupId": "org.apache.commons",
+    "artifactId": "commons-lang3",
+    "version": "3.12.0",
+    "depth": 2
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-wikimodel",
+    "version": "14.10.19",
+    "depth": 2
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-logging-common",
+    "version": "14.10.19",
+    "depth": 4
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-job-api",
+    "version": "14.10.19",
+    "depth": 3
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-component-observation",
+    "version": "14.10.19",
+    "depth": 4
+  },
+  {
+    "groupId": "com.thoughtworks.xstream",
+    "artifactId": "xstream",
+    "version": "1.4.17",
+    "depth": 4
+  },
+  {
+    "groupId": "xmlpull",
+    "artifactId": "xmlpull",
+    "version": "1.1.3.1",
+    "depth": 6
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-script",
+    "version": "14.10.19",
+    "depth": 4
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xwiki20",
+    "version": "14.10.19",
+    "depth": 2
+  },
+  {
+    "groupId": "org.dom4j",
+    "artifactId": "dom4j",
+    "version": "2.1.3",
+    "depth": 3
+  },
+  {
+    "groupId": "org.jdom",
+    "artifactId": "jdom2",
+    "version": "2.0.6.1",
+    "depth": 5
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-environment-api",
+    "version": "14.10.19",
+    "depth": 3
+  },
+  {
+    "groupId": "net.sourceforge.htmlcleaner",
+    "artifactId": "htmlcleaner",
+    "version": "2.24",
+    "depth": 4
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-observation-api",
+    "version": "14.10.19",
+    "depth": 3
+  },
+  {
+    "groupId": "net.sourceforge.cssparser",
+    "artifactId": "cssparser",
+    "version": "0.9.29",
+    "depth": 4
+  },
+  {
+    "groupId": "org.apache.commons",
+    "artifactId": "commons-text",
+    "version": "1.10.0",
+    "depth": 4
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-plain",
+    "version": "14.10.19",
+    "depth": 3
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-xml",
+    "version": "14.10.19",
+    "depth": 2
+  },
+  {
+    "groupId": "io.github.x-stream",
+    "artifactId": "mxparser",
+    "version": "1.2.1",
+    "depth": 5
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xwiki21",
+    "version": "14.10.19",
+    "depth": 1
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-configuration-api",
+    "version": "14.10.19",
+    "depth": 2
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-collection",
+    "version": "14.10.19",
+    "depth": 3
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-text",
+    "version": "14.10.19",
+    "depth": 2
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xhtml",
+    "version": "14.10.19",
+    "depth": 1
+  },
+  {
+    "groupId": "commons-io",
+    "artifactId": "commons-io",
+    "version": "2.11.0",
+    "depth": 2
+  },
+  {
+    "groupId": "org.codehaus.woodstox",
+    "artifactId": "stax2-api",
+    "version": "4.2.1",
+    "depth": 5
+  },
+  {
+    "groupId": "org.apache.commons",
+    "artifactId": "commons-configuration2",
+    "version": "2.8.0",
+    "depth": 2
+  },
+  {
+    "groupId": "commons-beanutils",
+    "artifactId": "commons-beanutils",
+    "version": "1.9.4",
+    "depth": 3
+  },
+  {
+    "groupId": "javax.inject",
+    "artifactId": "javax.inject",
+    "version": "1",
+    "depth": 4
+  },
+  {
+    "groupId": "org.apache.commons",
+    "artifactId": "commons-collections4",
+    "version": "4.4",
+    "depth": 4
+  },
+  {
+    "groupId": "xerces",
+    "artifactId": "xercesImpl",
+    "version": "2.12.2",
+    "depth": 3
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-cache-api",
+    "version": "14.10.19",
+    "depth": 4
+  },
+  {
+    "groupId": "commons-collections",
+    "artifactId": "commons-collections",
+    "version": "3.2.2",
+    "depth": 4
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-wikimodel",
+    "version": "14.10.19",
+    "depth": 3
+  },
+  {
+    "groupId": "jakarta.validation",
+    "artifactId": "jakarta.validation-api",
+    "version": "2.0.2",
+    "depth": 3
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-event",
+    "version": "14.10.19",
+    "depth": 1
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-stability",
+    "version": "14.10.19",
+    "depth": 3
+  },
+  {
+    "groupId": "com.fasterxml.woodstox",
+    "artifactId": "woodstox-core",
+    "version": "6.4.0",
+    "depth": 4
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-api",
+    "version": "14.10.19",
+    "depth": 1
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-filter-api",
+    "version": "14.10.19",
+    "depth": 2
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-context",
+    "version": "14.10.19",
+    "depth": 2
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-component-api",
+    "version": "14.10.19",
+    "depth": 3
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-xml",
+    "version": "14.10.19",
+    "depth": 3
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-logging-api",
+    "version": "14.10.19",
+    "depth": 5
+  },
+  {
+    "groupId": "org.jdom",
+    "artifactId": "jdom",
+    "version": "1.1.3",
+    "depth": 4
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-archetype-macro",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.slf4j",
+    "artifactId": "jcl-over-slf4j",
+    "version": "1.7.36",
+    "depth": 4
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-xstream",
+    "version": "14.10.19",
+    "depth": 4
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-properties",
+    "version": "14.10.19",
+    "depth": 2
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-tool-test-simple",
+    "version": "14.10.19",
+    "depth": 3
+  },
+  {
+    "groupId": "org.apache.velocity.tools",
+    "artifactId": "velocity-tools-generic",
+    "version": "3.1",
+    "depth": 3
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-component-default",
+    "version": "14.10.19",
+    "depth": 3
+  },
+  {
+    "groupId": "org.junit.platform",
+    "artifactId": "junit-platform-engine",
+    "version": "1.9.1",
+    "depth": 5
+  },
+  {
+    "groupId": "net.bytebuddy",
+    "artifactId": "byte-buddy",
+    "version": "1.12.18",
+    "depth": 5
+  },
+  {
+    "groupId": "org.junit.jupiter",
+    "artifactId": "junit-jupiter",
+    "version": "5.9.1",
+    "depth": 4
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-filter-xml",
+    "version": "14.10.19",
+    "depth": 3
+  },
+  {
+    "groupId": "org.opentest4j",
+    "artifactId": "opentest4j",
+    "version": "1.2.0",
+    "depth": 6
+  },
+  {
+    "groupId": "org.apache.commons",
+    "artifactId": "commons-lang3",
+    "version": "3.12.0",
+    "depth": 2
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-logging-common",
+    "version": "14.10.19",
+    "depth": 4
+  },
+  {
+    "groupId": "com.thoughtworks.xstream",
+    "artifactId": "xstream",
+    "version": "1.4.17",
+    "depth": 4
+  },
+  {
+    "groupId": "org.jmock",
+    "artifactId": "jmock-junit4",
+    "version": "2.12.0",
+    "depth": 4
+  },
+  {
+    "groupId": "commons-codec",
+    "artifactId": "commons-codec",
+    "version": "1.15",
+    "depth": 3
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-management",
+    "version": "14.10.19",
+    "depth": 3
+  },
+  {
+    "groupId": "com.github.cliftonlabs",
+    "artifactId": "json-simple",
+    "version": "3.0.2",
+    "depth": 4
+  },
+  {
+    "groupId": "org.apache.velocity",
+    "artifactId": "velocity-engine-core",
+    "version": "2.3",
+    "depth": 2
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-observation-api",
+    "version": "14.10.19",
+    "depth": 3
+  },
+  {
+    "groupId": "org.javassist",
+    "artifactId": "javassist",
+    "version": "3.29.2-GA",
+    "depth": 3
+  },
+  {
+    "groupId": "org.apache-extras.beanshell",
+    "artifactId": "bsh",
+    "version": "2.0b6",
+    "depth": 5
+  },
+  {
+    "groupId": "org.apache.commons",
+    "artifactId": "commons-text",
+    "version": "1.10.0",
+    "depth": 4
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-configuration-api",
+    "version": "14.10.19",
+    "depth": 2
+  },
+  {
+    "groupId": "org.apache.httpcomponents",
+    "artifactId": "httpclient",
+    "version": "4.5.13",
+    "depth": 3
+  },
+  {
+    "groupId": "org.hamcrest",
+    "artifactId": "hamcrest-library",
+    "version": "2.2",
+    "depth": 4
+  },
+  {
+    "groupId": "org.jmock",
+    "artifactId": "jmock",
+    "version": "2.12.0",
+    "depth": 4
+  },
+  {
+    "groupId": "com.tdunning",
+    "artifactId": "json",
+    "version": "1.8",
+    "depth": 3
+  },
+  {
+    "groupId": "commons-lang",
+    "artifactId": "commons-lang",
+    "version": "2.6",
+    "depth": 4
+  },
+  {
+    "groupId": "commons-io",
+    "artifactId": "commons-io",
+    "version": "2.11.0",
+    "depth": 2
+  },
+  {
+    "groupId": "org.mockito",
+    "artifactId": "mockito-core",
+    "version": "4.8.1",
+    "depth": 4
+  },
+  {
+    "groupId": "commons-beanutils",
+    "artifactId": "commons-beanutils",
+    "version": "1.9.4",
+    "depth": 3
+  },
+  {
+    "groupId": "javax.inject",
+    "artifactId": "javax.inject",
+    "version": "1",
+    "depth": 4
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-test",
+    "version": "14.10.19",
+    "depth": 1
+  },
+  {
+    "groupId": "org.apache.commons",
+    "artifactId": "commons-digester3",
+    "version": "3.2",
+    "depth": 4
+  },
+  {
+    "groupId": "org.hamcrest",
+    "artifactId": "hamcrest",
+    "version": "2.2",
+    "depth": 5
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-cache-api",
+    "version": "14.10.19",
+    "depth": 4
+  },
+  {
+    "groupId": "org.hamcrest",
+    "artifactId": "hamcrest-core",
+    "version": "2.2",
+    "depth": 5
+  },
+  {
+    "groupId": "jakarta.validation",
+    "artifactId": "jakarta.validation-api",
+    "version": "2.0.2",
+    "depth": 3
+  },
+  {
+    "groupId": "org.junit.jupiter",
+    "artifactId": "junit-jupiter-engine",
+    "version": "5.9.1",
+    "depth": 5
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-component-api",
+    "version": "14.10.19",
+    "depth": 3
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-logging-api",
+    "version": "14.10.19",
+    "depth": 5
+  },
+  {
+    "groupId": "org.jmock",
+    "artifactId": "jmock-testjar",
+    "version": "2.12.0",
+    "depth": 5
+  },
+  {
+    "groupId": "com.fasterxml.jackson.core",
+    "artifactId": "jackson-core",
+    "version": "2.14.0",
+    "depth": 3
+  },
+  {
+    "groupId": "org.jmock",
+    "artifactId": "jmock-imposters",
+    "version": "2.12.0",
+    "depth": 5
+  },
+  {
+    "groupId": "org.reflections",
+    "artifactId": "reflections",
+    "version": "0.10.2",
+    "depth": 2
+  },
+  {
+    "groupId": "org.junit.platform",
+    "artifactId": "junit-platform-commons",
+    "version": "1.9.1",
+    "depth": 6
+  },
+  {
+    "groupId": "org.objenesis",
+    "artifactId": "objenesis",
+    "version": "3.3",
+    "depth": 5
+  },
+  {
+    "groupId": "org.slf4j",
+    "artifactId": "slf4j-api",
+    "version": "1.7.36",
+    "depth": 3
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-job-api",
+    "version": "14.10.19",
+    "depth": 3
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-component-observation",
+    "version": "14.10.19",
+    "depth": 4
+  },
+  {
+    "groupId": "xmlpull",
+    "artifactId": "xmlpull",
+    "version": "1.1.3.1",
+    "depth": 6
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-script",
+    "version": "14.10.19",
+    "depth": 4
+  },
+  {
+    "groupId": "ch.qos.logback",
+    "artifactId": "logback-core",
+    "version": "1.2.11",
+    "depth": 5
+  },
+  {
+    "groupId": "junit",
+    "artifactId": "junit",
+    "version": "4.13.2",
+    "depth": 4
+  },
+  {
+    "groupId": "org.mockito",
+    "artifactId": "mockito-junit-jupiter",
+    "version": "4.8.1",
+    "depth": 4
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-environment-api",
+    "version": "14.10.19",
+    "depth": 3
+  },
+  {
+    "groupId": "net.bytebuddy",
+    "artifactId": "byte-buddy-agent",
+    "version": "1.12.18",
+    "depth": 5
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-transformation-macro",
+    "version": "14.10.19",
+    "depth": 1
+  },
+  {
+    "groupId": "ch.qos.logback",
+    "artifactId": "logback-classic",
+    "version": "1.2.11",
+    "depth": 4
+  },
+  {
+    "groupId": "com.google.code.findbugs",
+    "artifactId": "jsr305",
+    "version": "3.0.2",
+    "depth": 3
+  },
+  {
+    "groupId": "io.github.x-stream",
+    "artifactId": "mxparser",
+    "version": "1.2.1",
+    "depth": 5
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-collection",
+    "version": "14.10.19",
+    "depth": 3
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-text",
+    "version": "14.10.19",
+    "depth": 2
+  },
+  {
+    "groupId": "cglib",
+    "artifactId": "cglib",
+    "version": "3.3.0",
+    "depth": 6
+  },
+  {
+    "groupId": "org.junit.vintage",
+    "artifactId": "junit-vintage-engine",
+    "version": "5.9.1",
+    "depth": 4
+  },
+  {
+    "groupId": "org.junit.platform",
+    "artifactId": "junit-platform-launcher",
+    "version": "1.9.1",
+    "depth": 4
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xdomxmlcurrent",
+    "version": "14.10.19",
+    "depth": 2
+  },
+  {
+    "groupId": "com.fasterxml.jackson.core",
+    "artifactId": "jackson-databind",
+    "version": "2.14.0",
+    "depth": 3
+  },
+  {
+    "groupId": "org.junit.jupiter",
+    "artifactId": "junit-jupiter-api",
+    "version": "5.9.1",
+    "depth": 5
+  },
+  {
+    "groupId": "com.fasterxml.jackson.core",
+    "artifactId": "jackson-annotations",
+    "version": "2.14.0",
+    "depth": 4
+  },
+  {
+    "groupId": "org.apache.commons",
+    "artifactId": "commons-configuration2",
+    "version": "2.8.0",
+    "depth": 2
+  },
+  {
+    "groupId": "org.apache.commons",
+    "artifactId": "commons-collections4",
+    "version": "4.4",
+    "depth": 4
+  },
+  {
+    "groupId": "org.slf4j",
+    "artifactId": "log4j-over-slf4j",
+    "version": "1.7.36",
+    "depth": 4
+  },
+  {
+    "groupId": "commons-collections",
+    "artifactId": "commons-collections",
+    "version": "3.2.2",
+    "depth": 4
+  },
+  {
+    "groupId": "net.sf.json-lib",
+    "artifactId": "json-lib",
+    "version": "2.4",
+    "depth": 3
+  },
+  {
+    "groupId": "org.apiguardian",
+    "artifactId": "apiguardian-api",
+    "version": "1.1.2",
+    "depth": 5
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-velocity",
+    "version": "14.10.19",
+    "depth": 2
+  },
+  {
+    "groupId": "org.junit.jupiter",
+    "artifactId": "junit-jupiter-params",
+    "version": "5.9.1",
+    "depth": 5
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-stability",
+    "version": "14.10.19",
+    "depth": 3
+  },
+  {
+    "groupId": "org.apache.httpcomponents",
+    "artifactId": "httpcore",
+    "version": "4.4.15",
+    "depth": 4
+  },
+  {
+    "groupId": "net.sf.ezmorph",
+    "artifactId": "ezmorph",
+    "version": "1.0.6",
+    "depth": 4
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-filter-api",
+    "version": "14.10.19",
+    "depth": 2
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-context",
+    "version": "14.10.19",
+    "depth": 2
+  },
+  {
+    "groupId": "org.ow2.asm",
+    "artifactId": "asm",
+    "version": "9.4",
+    "depth": 5
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-tool-test-component",
+    "version": "14.10.19",
+    "depth": 2
+  },
+  {
+    "groupId": "org.jmock",
+    "artifactId": "jmock-legacy",
+    "version": "2.12.0",
+    "depth": 5
+  },
+  {
+    "groupId": "org.w3c.css",
+    "artifactId": "sac",
+    "version": "1.3",
+    "depth": 5
+  },
+  {
+    "groupId": "net.java.dev.stax-utils",
+    "artifactId": "stax-utils",
+    "version": "20070216",
+    "depth": 4
+  },
+  {
+    "groupId": "xerces",
+    "artifactId": "xercesImpl",
+    "version": "2.12.2",
+    "depth": 3
+  },
+  {
+    "groupId": "org.dom4j",
+    "artifactId": "dom4j",
+    "version": "2.1.3",
+    "depth": 3
+  },
+  {
+    "groupId": "org.jdom",
+    "artifactId": "jdom2",
+    "version": "2.0.6.1",
+    "depth": 5
+  },
+  {
+    "groupId": "net.sourceforge.htmlcleaner",
+    "artifactId": "htmlcleaner",
+    "version": "2.24",
+    "depth": 4
+  },
+  {
+    "groupId": "net.sourceforge.cssparser",
+    "artifactId": "cssparser",
+    "version": "0.9.29",
+    "depth": 4
+  },
+  {
+    "groupId": "org.codehaus.woodstox",
+    "artifactId": "stax2-api",
+    "version": "4.2.1",
+    "depth": 5
+  },
+  {
+    "groupId": "com.fasterxml.woodstox",
+    "artifactId": "woodstox-core",
+    "version": "6.4.0",
+    "depth": 4
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-xml",
+    "version": "14.10.19",
+    "depth": 3
+  },
+  {
+    "groupId": "org.jdom",
+    "artifactId": "jdom",
+    "version": "1.1.3",
+    "depth": 4
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-jspwiki",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-twiki",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.apache.maven.doxia",
+    "artifactId": "doxia-module-twiki",
+    "version": "1.11.1",
+    "depth": 1
+  },
+  {
+    "groupId": "org.codehaus.plexus",
+    "artifactId": "plexus-component-annotations",
+    "version": "2.1.1",
+    "depth": 2
+  },
+  {
+    "groupId": "commons-codec",
+    "artifactId": "commons-codec",
+    "version": "1.15",
+    "depth": 3
+  },
+  {
+    "groupId": "org.apache.httpcomponents",
+    "artifactId": "httpclient",
+    "version": "4.5.13",
+    "depth": 3
+  },
+  {
+    "groupId": "org.codehaus.plexus",
+    "artifactId": "plexus-classworlds",
+    "version": "2.6.0",
+    "depth": 4
+  },
+  {
+    "groupId": "org.apache.maven.doxia",
+    "artifactId": "doxia-core",
+    "version": "1.11.1",
+    "depth": 2
+  },
+  {
+    "groupId": "org.codehaus.plexus",
+    "artifactId": "plexus-container-default",
+    "version": "2.1.1",
+    "depth": 3
+  },
+  {
+    "groupId": "org.codehaus.plexus",
+    "artifactId": "plexus-utils",
+    "version": "3.5.0",
+    "depth": 2
+  },
+  {
+    "groupId": "org.apache.xbean",
+    "artifactId": "xbean-reflect",
+    "version": "3.7",
+    "depth": 4
+  },
+  {
+    "groupId": "org.apache.maven.doxia",
+    "artifactId": "doxia-sink-api",
+    "version": "1.11.1",
+    "depth": 2
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-doxia",
+    "version": "14.10.19",
+    "depth": 1
+  },
+  {
+    "groupId": "org.apache.maven.doxia",
+    "artifactId": "doxia-logging-api",
+    "version": "1.11.1",
+    "depth": 3
+  },
+  {
+    "groupId": "org.apache.httpcomponents",
+    "artifactId": "httpcore",
+    "version": "4.4.15",
+    "depth": 4
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-ctsreport",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-message",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-box",
+    "version": "14.10.19",
+    "depth": 1
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macros",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-footnotes",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-creole",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xhtml5",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-html",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-observation-local",
+    "version": "14.10.19",
+    "depth": 2
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-apt",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.apache.maven.doxia",
+    "artifactId": "doxia-module-apt",
+    "version": "1.11.1",
+    "depth": 1
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-filter-xml",
+    "version": "14.10.19",
+    "depth": 3
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-html5",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-figure",
+    "version": "14.10.19",
+    "depth": 1
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-annotatedxhtml",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-comment",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-transformation-icon",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-transformation-wikiword",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-annotatedhtml5",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.slf4j",
+    "artifactId": "jcl-over-slf4j",
+    "version": "1.7.36",
+    "depth": 4
+  },
+  {
+    "groupId": "org.jmock",
+    "artifactId": "jmock-testjar",
+    "version": "2.12.0",
+    "depth": 5
+  },
+  {
+    "groupId": "com.fasterxml.jackson.core",
+    "artifactId": "jackson-core",
+    "version": "2.14.0",
+    "depth": 3
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-tool-test-simple",
+    "version": "14.10.19",
+    "depth": 3
+  },
+  {
+    "groupId": "org.jmock",
+    "artifactId": "jmock-imposters",
+    "version": "2.12.0",
+    "depth": 5
+  },
+  {
+    "groupId": "org.apache.velocity.tools",
+    "artifactId": "velocity-tools-generic",
+    "version": "3.1",
+    "depth": 3
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-component-default",
+    "version": "14.10.19",
+    "depth": 3
+  },
+  {
+    "groupId": "org.reflections",
+    "artifactId": "reflections",
+    "version": "0.10.2",
+    "depth": 2
+  },
+  {
+    "groupId": "org.junit.platform",
+    "artifactId": "junit-platform-commons",
+    "version": "1.9.1",
+    "depth": 6
+  },
+  {
+    "groupId": "org.junit.platform",
+    "artifactId": "junit-platform-engine",
+    "version": "1.9.1",
+    "depth": 5
+  },
+  {
+    "groupId": "org.objenesis",
+    "artifactId": "objenesis",
+    "version": "3.3",
+    "depth": 5
+  },
+  {
+    "groupId": "net.bytebuddy",
+    "artifactId": "byte-buddy",
+    "version": "1.12.18",
+    "depth": 5
+  },
+  {
+    "groupId": "org.junit.jupiter",
+    "artifactId": "junit-jupiter",
+    "version": "5.9.1",
+    "depth": 4
+  },
+  {
+    "groupId": "org.opentest4j",
+    "artifactId": "opentest4j",
+    "version": "1.2.0",
+    "depth": 6
+  },
+  {
+    "groupId": "org.jmock",
+    "artifactId": "jmock-junit4",
+    "version": "2.12.0",
+    "depth": 4
+  },
+  {
+    "groupId": "ch.qos.logback",
+    "artifactId": "logback-core",
+    "version": "1.2.11",
+    "depth": 5
+  },
+  {
+    "groupId": "junit",
+    "artifactId": "junit",
+    "version": "4.13.2",
+    "depth": 4
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-management",
+    "version": "14.10.19",
+    "depth": 3
+  },
+  {
+    "groupId": "com.github.cliftonlabs",
+    "artifactId": "json-simple",
+    "version": "3.0.2",
+    "depth": 4
+  },
+  {
+    "groupId": "org.mockito",
+    "artifactId": "mockito-junit-jupiter",
+    "version": "4.8.1",
+    "depth": 4
+  },
+  {
+    "groupId": "net.bytebuddy",
+    "artifactId": "byte-buddy-agent",
+    "version": "1.12.18",
+    "depth": 5
+  },
+  {
+    "groupId": "org.apache.velocity",
+    "artifactId": "velocity-engine-core",
+    "version": "2.3",
+    "depth": 2
+  },
+  {
+    "groupId": "org.javassist",
+    "artifactId": "javassist",
+    "version": "3.29.2-GA",
+    "depth": 3
+  },
+  {
+    "groupId": "ch.qos.logback",
+    "artifactId": "logback-classic",
+    "version": "1.2.11",
+    "depth": 4
+  },
+  {
+    "groupId": "org.apache-extras.beanshell",
+    "artifactId": "bsh",
+    "version": "2.0b6",
+    "depth": 5
+  },
+  {
+    "groupId": "com.google.code.findbugs",
+    "artifactId": "jsr305",
+    "version": "3.0.2",
+    "depth": 3
+  },
+  {
+    "groupId": "cglib",
+    "artifactId": "cglib",
+    "version": "3.3.0",
+    "depth": 6
+  },
+  {
+    "groupId": "org.hamcrest",
+    "artifactId": "hamcrest-library",
+    "version": "2.2",
+    "depth": 4
+  },
+  {
+    "groupId": "org.jmock",
+    "artifactId": "jmock",
+    "version": "2.12.0",
+    "depth": 4
+  },
+  {
+    "groupId": "com.tdunning",
+    "artifactId": "json",
+    "version": "1.8",
+    "depth": 3
+  },
+  {
+    "groupId": "org.junit.vintage",
+    "artifactId": "junit-vintage-engine",
+    "version": "5.9.1",
+    "depth": 4
+  },
+  {
+    "groupId": "org.junit.platform",
+    "artifactId": "junit-platform-launcher",
+    "version": "1.9.1",
+    "depth": 4
+  },
+  {
+    "groupId": "commons-lang",
+    "artifactId": "commons-lang",
+    "version": "2.6",
+    "depth": 4
+  },
+  {
+    "groupId": "org.mockito",
+    "artifactId": "mockito-core",
+    "version": "4.8.1",
+    "depth": 4
+  },
+  {
+    "groupId": "com.fasterxml.jackson.core",
+    "artifactId": "jackson-databind",
+    "version": "2.14.0",
+    "depth": 3
+  },
+  {
+    "groupId": "org.junit.jupiter",
+    "artifactId": "junit-jupiter-api",
+    "version": "5.9.1",
+    "depth": 5
+  },
+  {
+    "groupId": "com.fasterxml.jackson.core",
+    "artifactId": "jackson-annotations",
+    "version": "2.14.0",
+    "depth": 4
+  },
+  {
+    "groupId": "org.apache.commons",
+    "artifactId": "commons-digester3",
+    "version": "3.2",
+    "depth": 4
+  },
+  {
+    "groupId": "org.hamcrest",
+    "artifactId": "hamcrest",
+    "version": "2.2",
+    "depth": 5
+  },
+  {
+    "groupId": "org.hamcrest",
+    "artifactId": "hamcrest-core",
+    "version": "2.2",
+    "depth": 5
+  },
+  {
+    "groupId": "org.slf4j",
+    "artifactId": "log4j-over-slf4j",
+    "version": "1.7.36",
+    "depth": 4
+  },
+  {
+    "groupId": "net.sf.json-lib",
+    "artifactId": "json-lib",
+    "version": "2.4",
+    "depth": 3
+  },
+  {
+    "groupId": "org.apiguardian",
+    "artifactId": "apiguardian-api",
+    "version": "1.1.2",
+    "depth": 5
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-velocity",
+    "version": "14.10.19",
+    "depth": 2
+  },
+  {
+    "groupId": "org.junit.jupiter",
+    "artifactId": "junit-jupiter-params",
+    "version": "5.9.1",
+    "depth": 5
+  },
+  {
+    "groupId": "net.sf.ezmorph",
+    "artifactId": "ezmorph",
+    "version": "1.0.6",
+    "depth": 4
+  },
+  {
+    "groupId": "org.junit.jupiter",
+    "artifactId": "junit-jupiter-engine",
+    "version": "5.9.1",
+    "depth": 5
+  },
+  {
+    "groupId": "org.ow2.asm",
+    "artifactId": "asm",
+    "version": "9.4",
+    "depth": 5
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-tool-test-component",
+    "version": "14.10.19",
+    "depth": 2
+  },
+  {
+    "groupId": "org.jmock",
+    "artifactId": "jmock-legacy",
+    "version": "2.12.0",
+    "depth": 5
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xdomxml10",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-docbook",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.apache.maven.doxia",
+    "artifactId": "doxia-module-docbook-simple",
+    "version": "1.11.1",
+    "depth": 1
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-transformation-linkchecker",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "com.google.j2objc",
+    "artifactId": "j2objc-annotations",
+    "version": "1.3",
+    "depth": 3
+  },
+  {
+    "groupId": "com.github.tomakehurst",
+    "artifactId": "wiremock",
+    "version": "1.46",
+    "depth": 1
+  },
+  {
+    "groupId": "com.google.guava",
+    "artifactId": "guava",
+    "version": "31.1-jre",
+    "depth": 2
+  },
+  {
+    "groupId": "com.google.errorprone",
+    "artifactId": "error_prone_annotations",
+    "version": "2.16",
+    "depth": 3
+  },
+  {
+    "groupId": "net.minidev",
+    "artifactId": "json-smart",
+    "version": "1.1.1",
+    "depth": 3
+  },
+  {
+    "groupId": "junit",
+    "artifactId": "junit-dep",
+    "version": "4.10",
+    "depth": 2
+  },
+  {
+    "groupId": "org.mortbay.jetty",
+    "artifactId": "jetty",
+    "version": "6.1.26",
+    "depth": 2
+  },
+  {
+    "groupId": "com.google.guava",
+    "artifactId": "listenablefuture",
+    "version": "9999.0-empty-to-avoid-conflict-with-guava",
+    "depth": 3
+  },
+  {
+    "groupId": "org.mortbay.jetty",
+    "artifactId": "jetty-util",
+    "version": "6.1.26",
+    "depth": 3
+  },
+  {
+    "groupId": "com.google.guava",
+    "artifactId": "failureaccess",
+    "version": "1.0.1",
+    "depth": 3
+  },
+  {
+    "groupId": "xmlunit",
+    "artifactId": "xmlunit",
+    "version": "1.5",
+    "depth": 2
+  },
+  {
+    "groupId": "org.checkerframework",
+    "artifactId": "checker-qual",
+    "version": "3.27.0",
+    "depth": 3
+  },
+  {
+    "groupId": "org.skyscreamer",
+    "artifactId": "jsonassert",
+    "version": "1.2.1",
+    "depth": 2
+  },
+  {
+    "groupId": "net.sf.jopt-simple",
+    "artifactId": "jopt-simple",
+    "version": "4.3",
+    "depth": 2
+  },
+  {
+    "groupId": "com.jayway.jsonpath",
+    "artifactId": "json-path",
+    "version": "0.8.1",
+    "depth": 2
+  },
+  {
+    "groupId": "org.mortbay.jetty",
+    "artifactId": "servlet-api",
+    "version": "2.5-20081211",
+    "depth": 3
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-integration-tests",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.apache.maven.doxia",
+    "artifactId": "doxia-module-twiki",
+    "version": "1.11.1",
+    "depth": 1
+  },
+  {
+    "groupId": "org.codehaus.plexus",
+    "artifactId": "plexus-component-annotations",
+    "version": "2.1.1",
+    "depth": 2
+  },
+  {
+    "groupId": "org.codehaus.plexus",
+    "artifactId": "plexus-classworlds",
+    "version": "2.6.0",
+    "depth": 4
+  },
+  {
+    "groupId": "org.apache.maven.doxia",
+    "artifactId": "doxia-core",
+    "version": "1.11.1",
+    "depth": 2
+  },
+  {
+    "groupId": "org.codehaus.plexus",
+    "artifactId": "plexus-container-default",
+    "version": "2.1.1",
+    "depth": 3
+  },
+  {
+    "groupId": "org.codehaus.plexus",
+    "artifactId": "plexus-utils",
+    "version": "3.5.0",
+    "depth": 2
+  },
+  {
+    "groupId": "org.apache.maven.doxia",
+    "artifactId": "doxia-module-docbook-simple",
+    "version": "1.11.1",
+    "depth": 1
+  },
+  {
+    "groupId": "org.apache.xbean",
+    "artifactId": "xbean-reflect",
+    "version": "3.7",
+    "depth": 4
+  },
+  {
+    "groupId": "org.apache.maven.doxia",
+    "artifactId": "doxia-sink-api",
+    "version": "1.11.1",
+    "depth": 2
+  },
+  {
+    "groupId": "org.apache.maven.doxia",
+    "artifactId": "doxia-logging-api",
+    "version": "1.11.1",
+    "depth": 3
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-html",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.mortbay.jasper",
+    "artifactId": "apache-el",
+    "version": "9.0.52",
+    "depth": 2
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-toc",
+    "version": "14.10.19",
+    "depth": 1
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntaxes",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-content",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-raw",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-id",
+    "version": "14.10.19",
+    "depth": 0
+  },
+  {
+    "groupId": "org.jboss.logging",
+    "artifactId": "jboss-logging",
+    "version": "3.5.0.Final",
+    "depth": 3
+  },
+  {
+    "groupId": "org.mortbay.jasper",
+    "artifactId": "apache-el",
+    "version": "9.0.52",
+    "depth": 2
+  },
+  {
+    "groupId": "org.hibernate.validator",
+    "artifactId": "hibernate-validator",
+    "version": "6.2.4.Final",
+    "depth": 2
+  },
+  {
+    "groupId": "com.fasterxml",
+    "artifactId": "classmate",
+    "version": "1.5.1",
+    "depth": 3
+  }
+]

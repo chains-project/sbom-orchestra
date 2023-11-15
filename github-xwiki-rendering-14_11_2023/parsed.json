@@ -1,0 +1,492 @@
+[
+  {
+    "groupId": "com.mycila",
+    "artifactId": "license-maven-plugin",
+    "version": ""
+  },
+  {
+    "groupId": "org.apache.felix",
+    "artifactId": "maven-bundle-plugin",
+    "version": ""
+  },
+  {
+    "groupId": "org.apache.maven.plugins",
+    "artifactId": "maven-checkstyle-plugin",
+    "version": ""
+  },
+  {
+    "groupId": "org.apache.maven.plugins",
+    "artifactId": "maven-enforcer-plugin",
+    "version": ""
+  },
+  {
+    "groupId": "org.apache.maven.plugins",
+    "artifactId": "maven-jar-plugin",
+    "version": ""
+  },
+  {
+    "groupId": "org.apache.maven.plugins",
+    "artifactId": "maven-surefire-plugin",
+    "version": ""
+  },
+  {
+    "groupId": "org.revapi",
+    "artifactId": "revapi-maven-plugin",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-tool-test-simple",
+    "version": ""
+  },
+  {
+    "groupId": "org.apache.commons",
+    "artifactId": "commons-lang3",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-configuration-api",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-context",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-filter-api",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-observation-local",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-properties",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-text",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-tool-test-component",
+    "version": ""
+  },
+  {
+    "groupId": "org.apache.maven.plugins",
+    "artifactId": "maven-archetype-plugin",
+    "version": ""
+  },
+  {
+    "groupId": "org.apache.maven.plugins",
+    "artifactId": "maven-resources-plugin",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-event",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xhtml",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xwiki21",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-test",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-transformation-macro",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.apache.maven.plugins",
+    "artifactId": "maven-compiler-plugin",
+    "version": "3.2"
+  },
+  {
+    "groupId": "org.apache.maven.plugins",
+    "artifactId": "maven-surefire-plugin",
+    "version": "2.7.2"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-event",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xhtml",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xwiki21",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-test",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-transformation-macro",
+    "version": ""
+  },
+  {
+    "groupId": "org.apache.maven.plugins",
+    "artifactId": "maven-compiler-plugin",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-component-default",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-box",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-annotatedxhtml",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-creole",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-docbook",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-html",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-html5",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-jspwiki",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-twiki",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xdomxml10",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xdomxmlcurrent",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xwiki20",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.aspectj",
+    "artifactId": "aspectjrt",
+    "version": ""
+  },
+  {
+    "groupId": "fr.inria.gforge.spoon",
+    "artifactId": "spoon-maven-plugin",
+    "version": ""
+  },
+  {
+    "groupId": "org.apache.maven.plugins",
+    "artifactId": "maven-antrun-plugin",
+    "version": ""
+  },
+  {
+    "groupId": "org.codehaus.mojo",
+    "artifactId": "aspectj-maven-plugin",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-legacy-component-api",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-api",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-annotatedhtml5",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-script",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-plain",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-message",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-toc",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.hibernate.validator",
+    "artifactId": "hibernate-validator",
+    "version": ""
+  },
+  {
+    "groupId": "org.mortbay.jasper",
+    "artifactId": "apache-el",
+    "version": ""
+  },
+  {
+    "groupId": "ch.qos.logback",
+    "artifactId": "logback-classic",
+    "version": ""
+  },
+  {
+    "groupId": "org.apache.maven.plugins",
+    "artifactId": "maven-assembly-plugin",
+    "version": ""
+  },
+  {
+    "groupId": "org.slf4j",
+    "artifactId": "jcl-over-slf4j",
+    "version": ""
+  },
+  {
+    "groupId": "org.slf4j",
+    "artifactId": "log4j-over-slf4j",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-legacy-component-default",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-legacy-configuration",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-tool-remote-resource-plugin",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-legacy-api",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-comment",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-footnotes",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-html",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-id",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-transformation-icon",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-transformation-wikiword",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.apache.maven.doxia",
+    "artifactId": "doxia-module-apt",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-doxia",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-wikimodel",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "commons-io",
+    "artifactId": "commons-io",
+    "version": ""
+  },
+  {
+    "groupId": "org.apache.maven.doxia",
+    "artifactId": "doxia-module-docbook-simple",
+    "version": ""
+  },
+  {
+    "groupId": "org.apache.maven.doxia",
+    "artifactId": "doxia-core",
+    "version": ""
+  },
+  {
+    "groupId": "org.codehaus.plexus",
+    "artifactId": "plexus-xml",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xhtml5",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.apache.maven.doxia",
+    "artifactId": "doxia-module-twiki",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-xml",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-wikimodel",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-xml",
+    "version": "15.10-SNAPSHOT"
+  },
+  {
+    "groupId": "net.java.dev.stax-utils",
+    "artifactId": "stax-utils",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-filter-xml",
+    "version": ""
+  },
+  {
+    "groupId": "org.apache.commons",
+    "artifactId": "commons-configuration2",
+    "version": ""
+  },
+  {
+    "groupId": "org.apache.velocity",
+    "artifactId": "velocity-engine-core",
+    "version": ""
+  },
+  {
+    "groupId": "org.jacoco",
+    "artifactId": "jacoco-maven-plugin",
+    "version": ""
+  },
+  {
+    "groupId": "org.reflections",
+    "artifactId": "reflections",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-velocity",
+    "version": ""
+  },
+  {
+    "groupId": "org.apache.httpcomponents",
+    "artifactId": "httpclient",
+    "version": ""
+  },
+  {
+    "groupId": "org.wiremock",
+    "artifactId": "wiremock-standalone",
+    "version": ""
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-observation-api",
+    "version": ""
+  },
+  {
+    "groupId": "junit",
+    "artifactId": "junit",
+    "version": ""
+  },
+  {
+    "groupId": "net.java.dev.javacc",
+    "artifactId": "javacc",
+    "version": "7.0.12"
+  },
+  {
+    "groupId": "net.sourceforge.cssparser",
+    "artifactId": "cssparser",
+    "version": ""
+  },
+  {
+    "groupId": "org.javacc.plugin",
+    "artifactId": "javacc-maven-plugin",
+    "version": "3.0.3"
+  },
+  {
+    "groupId": "org.dom4j",
+    "artifactId": "dom4j",
+    "version": ""
+  },
+  {
+    "groupId": "xerces",
+    "artifactId": "xercesImpl",
+    "version": ""
+  }
+]
