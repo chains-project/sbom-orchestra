@@ -1,0 +1,1124 @@
+[
+  {
+    "groupId": "org.mortbay.jasper",
+    "artifactId": "apache-el",
+    "version": null,
+    "depth": 0
+  },
+  {
+    "groupId": "org.aspectj",
+    "artifactId": "aspectjrt",
+    "version": null,
+    "depth": 0
+  },
+  {
+    "groupId": "org.apache.commons",
+    "artifactId": "commons-configuration2",
+    "version": null,
+    "depth": 0
+  },
+  {
+    "groupId": "commons-io",
+    "artifactId": "commons-io",
+    "version": null,
+    "depth": 0
+  },
+  {
+    "groupId": "commons-io",
+    "artifactId": "commons-io",
+    "version": null,
+    "depth": 0
+  },
+  {
+    "groupId": "commons-io",
+    "artifactId": "commons-io",
+    "version": null,
+    "depth": 0
+  },
+  {
+    "groupId": "org.apache.commons",
+    "artifactId": "commons-lang3",
+    "version": null,
+    "depth": 0
+  },
+  {
+    "groupId": "org.apache.commons",
+    "artifactId": "commons-lang3",
+    "version": null,
+    "depth": 0
+  },
+  {
+    "groupId": "org.apache.commons",
+    "artifactId": "commons-lang3",
+    "version": null,
+    "depth": 0
+  },
+  {
+    "groupId": "net.sourceforge.cssparser",
+    "artifactId": "cssparser",
+    "version": null,
+    "depth": 0
+  },
+  {
+    "groupId": "org.dom4j",
+    "artifactId": "dom4j",
+    "version": null,
+    "depth": 0
+  },
+  {
+    "groupId": "org.apache.maven.doxia",
+    "artifactId": "doxia-core",
+    "version": "${doxia.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.apache.maven.doxia",
+    "artifactId": "doxia-module-apt",
+    "version": "${doxia.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.apache.maven.doxia",
+    "artifactId": "doxia-module-docbook-simple",
+    "version": "${doxia.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.apache.maven.doxia",
+    "artifactId": "doxia-module-twiki",
+    "version": "${doxia.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.hibernate.validator",
+    "artifactId": "hibernate-validator",
+    "version": null,
+    "depth": 0
+  },
+  {
+    "groupId": "org.apache.httpcomponents",
+    "artifactId": "httpclient",
+    "version": null,
+    "depth": 0
+  },
+  {
+    "groupId": "org.slf4j",
+    "artifactId": "jcl-over-slf4j",
+    "version": null,
+    "depth": 0
+  },
+  {
+    "groupId": "junit",
+    "artifactId": "junit",
+    "version": null,
+    "depth": 0
+  },
+  {
+    "groupId": "org.slf4j",
+    "artifactId": "log4j-over-slf4j",
+    "version": null,
+    "depth": 0
+  },
+  {
+    "groupId": "ch.qos.logback",
+    "artifactId": "logback-classic",
+    "version": null,
+    "depth": 0
+  },
+  {
+    "groupId": "org.reflections",
+    "artifactId": "reflections",
+    "version": null,
+    "depth": 0
+  },
+  {
+    "groupId": "net.java.dev.stax-utils",
+    "artifactId": "stax-utils",
+    "version": null,
+    "depth": 0
+  },
+  {
+    "groupId": "org.apache.velocity",
+    "artifactId": "velocity-engine-core",
+    "version": null,
+    "depth": 0
+  },
+  {
+    "groupId": "com.github.tomakehurst",
+    "artifactId": "wiremock",
+    "version": "1.46",
+    "depth": 0
+  },
+  {
+    "groupId": "xerces",
+    "artifactId": "xercesImpl",
+    "version": null,
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-component-default",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-component-default",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-configuration-api",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-context",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-context",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-filter-api",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-filter-xml",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-legacy-component-api",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-legacy-component-api",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-legacy-component-default",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-legacy-configuration",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-observation-api",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-observation-local",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-properties",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-properties",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-properties",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-script",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-script",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-text",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-text",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-text",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-tool-test-component",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-tool-test-component",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-tool-test-component",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-tool-test-component",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-tool-test-component",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-tool-test-component",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-tool-test-component",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-tool-test-component",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-tool-test-component",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-tool-test-component",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-tool-test-simple",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-velocity",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-xml",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-xml",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-xml",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-xml",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.commons",
+    "artifactId": "xwiki-commons-xml",
+    "version": "${commons.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-api",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-api",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-api",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-api",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-api",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-api",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-api",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-api",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-legacy-api",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-box",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-box",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-box",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-comment",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-figure",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-footnotes",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-html",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-id",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-message",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-message",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-toc",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-macro-toc",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-annotatedhtml5",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-annotatedhtml5",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-annotatedxhtml",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-annotatedxhtml",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-annotatedxhtml",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-annotatedxhtml",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-creole",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-docbook",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-doxia",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-doxia",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-doxia",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-event",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-event",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-event",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-event",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-event",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-event",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-event",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-event",
+    "version": "\\${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-html",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-html",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-html5",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-html5",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-html5",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-jspwiki",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-plain",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-plain",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-plain",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-plain",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-twiki",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-wikimodel",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-wikimodel",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-wikimodel",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-wikimodel",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xdomxml10",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xdomxmlcurrent",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xdomxmlcurrent",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xhtml",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xhtml",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xhtml",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xhtml",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xhtml",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xhtml",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xhtml",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xhtml",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xhtml",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xhtml",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xhtml",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xhtml",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xhtml",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xhtml",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xhtml",
+    "version": "\\${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xhtml5",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xhtml5",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xwiki20",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xwiki20",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xwiki20",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xwiki21",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xwiki21",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xwiki21",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xwiki21",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xwiki21",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xwiki21",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xwiki21",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xwiki21",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-syntax-xwiki21",
+    "version": "\\${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-test",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-test",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-test",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-test",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-test",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-test",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-test",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-test",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-test",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-test",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-test",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-test",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-test",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-test",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-test",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-test",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-test",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-test",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-test",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-test",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-test",
+    "version": "\\${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-transformation-icon",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-transformation-macro",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-transformation-macro",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-transformation-macro",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-transformation-macro",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-transformation-macro",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-transformation-macro",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-transformation-macro",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-transformation-macro",
+    "version": "\\${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-transformation-wikiword",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-wikimodel",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-xml",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-xml",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-xml",
+    "version": "${project.version}",
+    "depth": 0
+  },
+  {
+    "groupId": "org.xwiki.rendering",
+    "artifactId": "xwiki-rendering-xml",
+    "version": "${project.version}",
+    "depth": 0
+  }
+]
